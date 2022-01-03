@@ -1,4 +1,4 @@
-diandaokongge.github.io
+# diandaokongge.github.io
 
 https是https安全证书的意思。
 
@@ -14,7 +14,7 @@ io是英属印度洋领地的意思。
 
 本网站大约在2月前能配置好，现在gridea同步不上去，正在解决。
 
-估计在2028年6月下旬本网站有自己的域名。
+估计在2028年(6月下旬本网站有自己的域名。
 
 * 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
 
@@ -58,3 +58,5 @@ io是英属印度洋领地的意思。
 ### 11月27日：网站搭好了，但是要配置。
 
 11月25日：如果想知道今天发生了什么，请联系站长的FB：diandaokongge 然后加好友发送暗号211125
+
+**到底了**
