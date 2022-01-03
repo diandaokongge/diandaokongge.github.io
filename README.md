@@ -14,7 +14,7 @@ io是英属印度洋领地的意思。
 
 本网站大约在2月前能配置好，现在gridea同步不上去，正在解决。
 
-估计在2028年(6月下旬本网站有自己的域名。
+估计在2028年6月考完高考后，本网站会有自己的域名。
 
 * 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
 
