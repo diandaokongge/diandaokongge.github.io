@@ -18,7 +18,7 @@ io是英属印度洋领地的意思。
 
 * 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
 
-# llxc
+# [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
