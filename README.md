@@ -1,4 +1,4 @@
-# [diandaokongge.github.io](https://diandaokongge.github.io)，
+# [diandaokongge.github.io]
 
 https是SSL安全证书的意思。
 
