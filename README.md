@@ -1,4 +1,4 @@
-# diandaokongge.github.io
+# [diandaokongge.github.io](https://diandaokongge.github.io)，
 
 https是SSL安全证书的意思。
 
@@ -8,7 +8,7 @@ github是github pages的意思。
 
 io是英属印度洋领地的意思。
 
-## 欢迎你来到我的个人博客。这是一个用GitHub托管的网站。
+# 欢迎你来到我的个人博客。这是一个用GitHub托管的网站。
 
 2021.11.27  21:04 网站搭好了，但是要配置。
 
