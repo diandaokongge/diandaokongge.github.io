@@ -27,7 +27,7 @@ io是英属印度洋领地的意思。
 ***可以使用Ctrl+F来快速搜索本网站的内容。***
 
 1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown。  
-![](https://sm.ms/image/aYSe7HsFqEgbLWi)  
+![我编辑我网站的截图](https://sm.ms/image/aYSe7HsFqEgbLWi)  
 
 1月6日：“大日‘病毒’”很有意思。
 
