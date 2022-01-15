@@ -1,0 +1,67 @@
+---
+permalink: /404.html
+---
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>流星雨</title>
+		<meta name="keywords" content="关键词，关键字">
+		<meta name="description" content="描述信息">
+		<style>
+			body {
+				margin: 0;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+ 
+	<body>
+ 
+		<!--
+			<canvas>画布 画板 画画的本子
+		-->
+		<canvas width=400 height=400 style="background:#000000;" id="canvas"></canvas>
+ 
+		<!--
+			javascript
+			画笔
+		--> 
+		<script>
+					
+			var s = window.screen;
+			var w = s.width;
+			var h = s.height;
+			canvas.width = w;
+			canvas.height = h;
+
+			var fontSize = 14;
+			var clos = Math.floor(w/fontSize);）
+			var drops = [];
+			var str = "diandaokongge";
+			for(var i = 0;i<clos;i++) {
+				drops.push(0);
+			}
+ 
+			function drawString() {
+				ctx.fillStyle="rgba(0,0,0,0.05)"
+				ctx.fillRect(0,0,w,h);
+
+				ctx.font = "600 "+fontSize+"px 微软雅黑";
+				ctx.fillStyle = "#00ff00";
+ 
+				for(var i = 0;i<clos;i++) {
+					var x = i*fontSize;
+					var y = drops[i]*fontSize;
+					ctx.fillText(str[Math.floor(Math.random()*str.length)],x,y);
+					if(y>h&&Math.random()>0.99){
+						drops[i] = 0;
+					}
+					drops[i]++;
+				}
+					
+			}
+			setInterval(drawString,30);
+		</script>
+	</body>
+</html>
