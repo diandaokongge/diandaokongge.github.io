@@ -6,7 +6,7 @@ github是github pages的意思。
 
 io是英属印度洋领地的意思。
 
-# [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
+### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
 
 2021.11.27  21:04 网站搭好了，但是要配置。
 
@@ -14,15 +14,15 @@ io是英属印度洋领地的意思。
 
 * 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
 
-# [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
+#### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
-# [yjt](https://diandaokongge.github.io/#yjt)
+#### [yjt](https://diandaokongge.github.io/#yjt)
 
 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
 
-# [博客正文](https://diandaokongge.github.io/#博客正文)
+## [博客正文](https://diandaokongge.github.io/#博客正文)
 
 ***可以使用Ctrl+F来快速搜索本网站的内容。***
 
