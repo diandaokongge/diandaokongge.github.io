@@ -30,7 +30,7 @@
 1月13日：今天期末考试考了语文。
 
 **1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫。  
-[点击这里](https://diandaokongge.github.io/#跳过图片1、2、3)快速跳过图片
+[点击这里](https://diandaokongge.github.io/#跳过图片123)快速跳过图片
 ![1.png](https://s2.loli.net/2022/01/16/TRqSFXE5AW8hdlj.png)  
 ![2.PNG](https://s2.loli.net/2022/01/16/HLMjEqYeOKfUl2V.png)  
 ![3.PNG](https://s2.loli.net/2022/01/16/dsf5UKIYwE12PGa.png)  
