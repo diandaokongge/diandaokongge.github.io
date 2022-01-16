@@ -18,9 +18,14 @@
 
 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
 
+            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+            <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+
 ## [博客正文](https://diandaokongge.github.io/#博客正文)
 
 ***可以使用Ctrl+F来快速搜索本网站的内容。***
+
+1月16日：添加不蒜子网页访问量计数。（1.1.2）
 
 1月15日：更新404界面，界面是流星雨（整理自网络资源，如有侵权请联系删除）（1.1.1）  
 例如：[点击进入一个404界面](https://diandaokongge.github.io/404)
@@ -36,7 +41,7 @@
 ![3.PNG](https://s2.loli.net/2022/01/16/dsf5UKIYwE12PGa.png)  
 #### 跳过图片1、2、3
 
-1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。  
+1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。（1.1.0）  
 自1月7日起，图片使用sm.ms的图床。（非广告）
 
 1月6日：“大日‘病毒’”很有意思，把班级的电脑的英语光盘课件反复弹出。
