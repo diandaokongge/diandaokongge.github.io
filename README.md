@@ -1,10 +1,6 @@
 # [diandaokongge.github.io](https://diandaokongge.github.io)
 
-**diandaokongge是颠倒空格的意思。**
-
-github是github pages的意思。
-
-io是英属印度洋领地的意思。
+**diandaokongge是颠倒空格的拼音。**
 
 ### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
 
@@ -14,11 +10,11 @@ io是英属印度洋领地的意思。
 
 * 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
 
-#### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
+### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
-#### [yjt](https://diandaokongge.github.io/#yjt)
+### [yjt](https://diandaokongge.github.io/#yjt)
 
 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
 
@@ -26,13 +22,19 @@ io是英属印度洋领地的意思。
 
 ***可以使用Ctrl+F来快速搜索本网站的内容。***
 
-1月15日：更新404界面，界面是流星雨（整理自网络资源，如有侵权请联系删除）（1.1.1）
+1月15日：更新404界面，界面是流星雨（整理自网络资源，如有侵权请联系删除）（1.1.1）  
+例如：[点击进入一个404界面](https://diandaokongge.github.io/#404)
 
 1月14日：今天期末考试考了数学和英语。游走辜游走的老毛病在今天犯了很多次，都很严重。创建自定义404界面，页面只有404三个数字和主页链接。
 
 1月13日：今天期末考试考了语文。
 
+**1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫。  
+![1.png](https://s2.loli.net/2022/01/16/TRqSFXE5AW8hdlj.png)  
+![2.PNG](https://s2.loli.net/2022/01/16/HLMjEqYeOKfUl2V.png)
+
 1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。  
+自1月7日起，图片使用sm.ms的图床。（非广告）
 
 1月6日：“大日‘病毒’”很有意思，把班级的电脑的英语光盘课件反复弹出。
 
