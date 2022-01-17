@@ -4,11 +4,12 @@
 
 ### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
 
-2021.11.27  21:04 网站搭好了，但是要配置。
+2021.11.27  21:04 网站搭好了。  
+估计在2028年6月考完高考后，本网站会有自己的域名。  
+已知问题：只有单个页面，所以正在想办法修复。
+[点击此处](https://diandaokongge.github.io/#博客正文)立即来到博客正文
 
-估计在2028年6月考完高考后，本网站会有自己的域名。
-
-* 联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com
+**-联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**
 
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
@@ -22,15 +23,17 @@
 
 ***可以使用Ctrl+F来快速搜索本网站的内容。***
 
-1月15日：更新404界面，界面是流星雨（整理自网络资源，如有侵权请联系删除）（1.1.0）  
-例如：[点击进入一个404界面](https://diandaokongge.github.io/404)
+1月17日：更新404界面，界面是流星雨，不过字符改成了 `颠倒空格`
 
-1月14日：今天期末考试考了数学和英语。游走辜游走的老毛病在今天犯了很多次，都很严重。创建自定义404界面，页面只有404三个数字和主页链接。
+1月15日：更新404界面，界面是流星雨（1.1.0）  
+[点击进入一个404界面](https://diandaokongge.github.io/404)
+
+1月14日：今天期末考试考了数学和英语。游走辜游走的老毛病在今天犯了很多次，都很严重。我创建了自定义404界面，页面只有404三个数字和主页链接。
 
 1月13日：今天期末考试考了语文。
 
 **1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫。  
-[点击这里](https://diandaokongge.github.io/#跳过图片123)快速跳过图片
+[点击这里](https://diandaokongge.github.io/#跳过图片123)跳过图片
 ![1.png](https://s2.loli.net/2022/01/16/TRqSFXE5AW8hdlj.png)  
 ![2.PNG](https://s2.loli.net/2022/01/16/HLMjEqYeOKfUl2V.png)  
 ![3.PNG](https://s2.loli.net/2022/01/16/dsf5UKIYwE12PGa.png)  
