@@ -6,10 +6,10 @@
 
 2021.11.27  21:04 网站搭好了。  
 估计在2028年6月考完高考后，本网站会有自己的域名。  
-已知问题：只有单个页面，所以正在想办法修复。
+已知问题：只有单个页面，所以正在想办法修复。  
 [点击此处](https://diandaokongge.github.io/#博客正文)立即来到博客正文
-
-**-联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**
+本站市开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)
+**联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**
 
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
