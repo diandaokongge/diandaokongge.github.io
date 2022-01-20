@@ -8,7 +8,7 @@
 估计在2028年6月考完高考后，本网站会有自己的域名。  
 已知问题：只有单个页面，所以正在想办法修复。  
 [点击此处](https://diandaokongge.github.io/#博客正文)立即来到博客正文
-本站市开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)
+本站是开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**
 
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
@@ -38,6 +38,10 @@
 ![2.PNG](https://s2.loli.net/2022/01/16/HLMjEqYeOKfUl2V.png)  
 ![3.PNG](https://s2.loli.net/2022/01/16/dsf5UKIYwE12PGa.png)  
 #### 跳过图片1、2、3
+
+1月20日：期末考试成绩出来了。
+
+1月17日：开始放寒假。
 
 1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。（1.0.1）  
 自1月7日起，图片使用sm.ms的图床。（非广告）
