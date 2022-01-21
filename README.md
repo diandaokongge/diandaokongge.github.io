@@ -5,7 +5,7 @@
 ### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
 
 2021.11.27  21:04 网站搭好了。  
-估计在2028年6月考完高考后，本网站会有自己的域名。  
+估计在2028年6月后，本网站会有自己的域名。  
 已知问题：只有单个页面，所以正在想办法修复。  
 [点击此处](https://diandaokongge.github.io/#博客正文)立即来到博客正文
 本站是开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)  
