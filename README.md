@@ -9,19 +9,18 @@
 2021.11.27  21:04 网站搭好了。  
 估计在2028年6月后，本网站会有自己的域名。  
 已知问题：只有单个页面，所以正在想办法修复。  
-[点击此处](https://diandaokongge.github.io/#博客正文)立即来到博客正文
 本站是开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**
-
-### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
-
-就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
 ### [yjt](https://diandaokongge.github.io/#yjt)
 
 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
 
 1月21日：yjt表示本网站的404界面很吓人。他还表示本网站很有意思。
+
+### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
+
+就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
 ## [博客正文](https://diandaokongge.github.io/#博客正文)
 
@@ -111,3 +110,4 @@
 
 [点击此处](https://diandaokongge.github.io)回到最上方
 
+**Copyright © 2022 颠倒空格. All Rights Reserved.**
