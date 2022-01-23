@@ -1,5 +1,4 @@
 # 颠 倒 空 格 官 网  
-## [diandaokongge.github.io](https://diandaokongge.github.io)  
 ## diandaokongge是颠倒空格的拼音。
 
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
