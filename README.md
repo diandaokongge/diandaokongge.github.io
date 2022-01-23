@@ -1,12 +1,13 @@
-# [diandaokongge.github.io](https://diandaokongge.github.io)
-## 颠 倒 空 格 官 网
-## diandaokongge是颠倒空格的拼音。 ##
+# 颠 倒 空 格 官 网  
+## [diandaokongge.github.io](https://diandaokongge.github.io)  
+## diandaokongge是颠倒空格的拼音。
 
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。我是不会给你颠倒空格的。  
-谁提出这个名字的？我忘了。是在2020年8月一个课外班同学用C\*\*\*\*\*n发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了C\*\*\*\*\*n的bug，发过去后会让聊天区空出一大片空白。第二种是颠倒空格。第三种是什么我完全不记得了。因为之前也在C\*\*\*\*\*n流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
-上国际版Bing搜`颠倒空格`可以搜到本网站。如果是国内版Bing，搜`颠倒空格网站`即可。  
-[点击此处](https://diandaokongge.github.io/#博客正文)快速到达博客正文
+谁提出这个名字的？我忘了。是在2020年8月一个课外班同学用C\*\*\*\*\*n发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了C\*\*\*\*\*n的bug，发过去后会让聊天区空出一大片空白。第二种是颠倒空格。第三种是什么我完全不记得了。因为之前C\*\*\*\*\*n也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
+上[Bing](https://www.bing.com)搜[ `颠倒空格` ](https://www.bing.com/search?q=颠倒空格)可以搜到本网站。  
+[点击此处](https://diandaokongge.github.io/#博客正文)快速到达博客正文。  
+[点击此处](https://diandaokongge.github.io/#到底了)快速到达本网站最下方。
 
 ### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
 
@@ -16,11 +17,12 @@
 本站是开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
 **现在急需要人给我提建议，怎么把本网站弄成像样的网站。**
+
 ### [yjt](https://diandaokongge.github.io/#yjt)
 
 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
 
-1月21日：yjt表示本网站的404界面很吓人。他还表示本网站很有意思。
+1月21日：yjt表示本网站的[404界面](https://diandaokongge.github.io/404)很吓人。他还表示本网站很有意思。
 
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
@@ -45,7 +47,7 @@
 
 1月13日：今天期末考试考了语文。
 
-**1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫。  
+**1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫吧。  
 [点击这里](https://diandaokongge.github.io/#跳过图片123)跳过图片
 ![1.png](https://s2.loli.net/2022/01/16/TRqSFXE5AW8hdlj.png)  
 ![2.PNG](https://s2.loli.net/2022/01/16/HLMjEqYeOKfUl2V.png)  
@@ -57,8 +59,7 @@
 
 1月6日：“大日‘病毒’”很有意思，把班级的电脑的英语光盘课件反复弹出。
 
-1月5日：告诉大家：1.45也有一时四十五分的意思，4.10也有四时十分的意思。  
-今天我今天可是送上（水果）桶了，我都半个月没送了。
+1月5日：今天我今天可是送上（水果）桶了，我都半个月没送了。
 
 1月4日：篮球没了。某音乐老师兼主任说，某爱打篮球的姓张的同学戴了蓝色的发带后的发型很帅。xswl  
 今天班级电脑ping了佰d五千多下，没有丢包。
@@ -68,9 +69,9 @@
 
 1月1日：2022年新年快乐！
 
-**2022年博客**
+**以上是2022年博客**
 
-12月31日：联欢会上，班长引用了某首二年级上音乐课学的歌，叫sh/iji/anx/ia/ngxi/aomac/he。  
+12月31日：联欢会上，班长引用了某首二年级上音乐课学的歌，叫《时间像小马车》。  
 我这一周只有一个桶要送，结果让同学拿去了！  
 目前有至少35人知道我的网站。
 
@@ -92,11 +93,11 @@
 
 12月19日：目前有至少28人知道我的网站。
 
-12月16日：如果想知道今天发生了什么，请联系站长的FB：diandaokongge 然后加好友发送暗号211216
+12月16日：因为一些人的要求，此处不写了。
 
 12月15日：本网站开始被同学们所赞叹。
 
-12月13日：如果想知道今天发生了什么，请联系站长的FB：diandaokongge 然后加好友发送暗号211213
+12月13日：因为一些人的要求，此处不写了。
 
 12月11日：正在考虑用不用gridea了，同步不上去。
 
@@ -104,14 +105,15 @@
 
 12月1日：在当天晚上8时50分至当天晚上9时08分网站被黑客攻击，期间本网站上不去。据站长调查，那名攻击本网站的黑客姓姜，性别男，是站长的某同学，案发后第二天自己向站长赔礼道歉，承认错误，在此不追究责任。
 
-**21年11月27日：网站搭好了，但是要配置。** （1.0.0）
+## 21年11月27日21时4分：建站日
 
-11月25日：如果想知道今天发生了什么，请联系站长的FB：diandaokongge 然后加好友发送暗号211125
+11月25日：因为一些人的要求，此处不写了。
 
-**2021年博客**
+**以上是2021年博客**
 
-### 到底了。
+## 到底了
 
-[点击此处](https://diandaokongge.github.io)回到最上方
+[点击此处](https://diandaokongge.github.io)回到最上方  
+![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 
-**Copyright © 2022 颠倒空格官网 All Rights Reserved.** [反馈](diandaokongge@gmail.com)
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](diandaokongge@gmail.com)
