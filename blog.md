@@ -17,7 +17,8 @@
 图片是256\*256像素的，所以会看起来会模糊。我打算把那张图片设置为本网站在浏览器里显示的logo，但没有成功。  
 **关于LOGO的商用字体版权：本人特意考虑了本问题，没有使用不得商用的宋体、楷体等，使用的是可以商用的思源屏显臻宋CN。**
 
-1月22日：今天下雪了。
+1月22日：今天下雪了。  
+我为本网站的底部显示了“反馈”链接，就是到本网站的开源GitHub仓库地址的issues区新建话题。
 
 1月21日：yjt表示本网站的404界面很吓人。他还表示本网站很有意思。
 
@@ -100,4 +101,4 @@
 [点击此处](https://diandaokongge.github.io/blog)回到最上方  
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 
-**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](diandaokongge@gmail.com)
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new) 上不去反馈的链接请自行解决。
