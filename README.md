@@ -26,3 +26,5 @@
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
+
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](diandaokongge@gmail.com)
