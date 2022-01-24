@@ -27,4 +27,4 @@
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
 
-**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new)
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new) 上不去反馈的链接请自行解决。
