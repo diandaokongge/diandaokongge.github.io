@@ -18,8 +18,4 @@
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
 **现在急需要人给我提建议，怎么把本网站弄成像样的网站。**
 
-### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
-
-就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
-
 **Copyright © 2022 颠倒空格官网 All Rights Reserved.**   [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new)  上不去反馈的链接请自行解决。
