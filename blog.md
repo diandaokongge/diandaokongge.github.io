@@ -108,4 +108,4 @@
 [点击此处](https://diandaokongge.github.io/blog)回到最上方  
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 
-**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new)
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://support.qq.com/products/378149)
