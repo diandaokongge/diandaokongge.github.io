@@ -7,14 +7,10 @@
 上[Bing](https://www.bing.com)或者上[Yahoo!](https://www.yahoo.com)搜`颠倒空格`可以搜到本网站。例如：[`颠倒空格`](https://www.bing.com/search?q=颠倒空格)或[`颠倒空格`](https://search.yahoo.com/search?p=颠倒空格)  
  
 
-## [点击此处](https://diandaokongge.github.io/blog)到达博客正文。
-
-### [欢迎你来到我的个人博客，这是一个用GitHub托管的网站。](https://diandaokongge.github.io/#欢迎你来到我的个人博客，这是一个用GitHub托管的网站。)
-
-2021.11.27  21:04 网站搭好了。  
-估计在2028年6月后，本网站会有自己的域名。  
-已知问题：只有单个页面，所以正在想办法修复。  
-本站是开源项目，任何代码均是开源的。开源地址：[https://github.com/diandaokongge/diandaokongge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/)  
+## [点击此处](https://diandaokongge.github.io/blog)到达博客正文。  
+## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
+## [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。
+ 
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
 **现在急需要人给我提建议，怎么把本网站弄成像样的网站。**
 
