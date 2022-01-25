@@ -1,18 +1,23 @@
-## [博客正文](https://diandaokongge.github.io/#博客正文)  
+# [博客正文](https://diandaokongge.github.io/#博客正文)  
 
-[点击此处](https://diandaokongge.github.io)回到首页  
-[点击此处](https://diandaokongge.github.io/blog)回到最上方
+### [点击此处](https://diandaokongge.github.io/blog)到达主页。  
+### [点击此处](https://diandaokongge.github.io/blog)到达博客正文。  
+### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
+### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。  
+### [点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
 
-***可以使用Ctrl+F来快速搜索本网站的内容。***
 
-1月25日：将拦路小丑和yjt的专区移了地方。
+### 可以使用Ctrl+F来快速搜索本网站的内容。
+
+1月25日：重大更新：将拦路小丑专区、yjt专区、欢迎界面移了地方。版本（正2.0=2.0.2）
 
 1月24日：据说我住的小区里有一个covid19密接，23日和24日，物业让我们去做两次核酸。  
 我编辑本网站时，GitHub反应太慢，出现了一只独角兽！吓死我了。不过我认为一个没看过本网站的404界面的人看本网站的[404界面](https://diandaokongge.github.io/1)，吓得更坏。  
-重大更新（2.0.0）：1.把博客正文迁移至diandaokongge.github.io/blog，不能让主页太臃肿。  
-                  2.把本网站改成了`颠倒空格`官网
+重大更新（准2.0=2.0.1）：
+1.把博客正文迁移至diandaokongge.github.io/blog，不能让主页太臃肿。  
+2.把本网站改成了`颠倒空格`官网
 
-1月23日：为本网站添加copyright。版本（1.2.0）  
+1月23日：为本网站添加copyright。版本（1.2）  
 为本网站添加logo：  
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 图片是256\*256像素的，所以会看起来会模糊。我打算把那张图片设置为本网站在浏览器里显示的logo，但没有成功。  
@@ -38,7 +43,7 @@
 
 **1月8日：本网站被Bing收录**，我认为应该是Bing的爬虫吧。  
 
-1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。（1.1.0）  
+1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。（1.1）  
 自1月7日起，图片使用GitHub的图床。（非广告）
 
 1月6日：“大日‘病毒’”很有意思，把班级的电脑的英语光盘课件反复弹出。  
@@ -91,17 +96,16 @@
 
 12月1日：在当天晚上8时50分至当天晚上9时08分网站被黑客攻击，期间本网站上不去。据站长调查，那名攻击本网站的黑客姓姜，性别男，是站长的某同学，案发后第二天自己向站长赔礼道歉，承认错误，在此不追究责任。
 
-## 21年11月27日21时4分：建站日 版本1.0.0
+## 21年11月27日21时4分：建站日 版本1.0
 
-11月25日：当天中午13时20分，全体\*年级\*班在操场上合唱一首叫《时间像小马车》很多遍。故曰：\*\*\*气死日  
+11月25日：当天中午13时20分，全体\*年级\*班在操场上合唱一首叫《时间像小马车》很多遍。故曰：\*\*\*气死日。  
 所有带\*的都是因为有人不让写，所以给匿了。
 
 **以上是2021年博客**
 
 ## 到底了
-
-[点击此处](https://diandaokongge.github.io)回到首页  
+  
 [点击此处](https://diandaokongge.github.io/blog)回到最上方  
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 
-**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new) 上不去反馈的链接请自行解决。
+**Copyright © 2022 颠倒空格官网 All Rights Reserved.**  [反馈](https://github.com/diandaokongge/diandaokongge.github.io/issues/new)
