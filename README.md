@@ -18,12 +18,6 @@
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
 **现在急需要人给我提建议，怎么把本网站弄成像样的网站。**
 
-### [yjt](https://diandaokongge.github.io/#yjt)
-
-他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
-
-1月21日：yjt表示本网站的[404界面](https://diandaokongge.github.io/404)很吓人。他还表示本网站很有意思。
-
 ### [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
 就是拦路小丑。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。
