@@ -15,10 +15,11 @@
 ## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。  
 ## [点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
-
-总访问量（1人1次）：  
+   
+<i class="far fa-eye">
 <span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
+    访问量：<span id="busuanzi_value_site_pv"></span>
 </span>
+</i>
 
 **Copyright © 2022 颠倒空格官网 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
