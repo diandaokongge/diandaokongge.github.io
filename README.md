@@ -21,14 +21,4 @@
     本站总访问量<span id="busuanzi_value_site_pv"></span>次
 </span>
 
-总访问量（1人多次）：  
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
-
-本页面访问量（1人1次）：  
-<span id="busuanzi_container_page_pv">
-  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
-</span>
-
 **Copyright © 2022 颠倒空格官网 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
