@@ -9,7 +9,6 @@
 流星雨：[https://diandaokongge.github.io/liuxingyu](https://diandaokongge.github.io/liuxingyu)
  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
-**现在急需要人给我提建议，怎么把本网站弄成像样的网站。**
 
 ## [点击此处](https://diandaokongge.github.io/blog)到达博客正文。  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
