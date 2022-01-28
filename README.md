@@ -14,6 +14,12 @@
 ## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。  
 ## [点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
+
+<script type="text/javascript" src="busuanzi.js"></script>    
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>  
+
+
 访问量：  
 <span id="busuanzi_container_site_uv">
   本站访客数<span id="busuanzi_value_site_uv"></span>人次
