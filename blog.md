@@ -2,6 +2,7 @@
 
 ### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
 
+### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -24,7 +25,7 @@
 
 ### 可以使用Ctrl+F来快速搜索本网站的内容。
 
-1月29日：可算弄明白不蒜子了，现在统计的不错，不过我打算在春节正式开放不蒜子的功能，现在还是测试中。更改了本网站的主页大图片。有人说本网站的开源地址上不去，我觉得真的是有意思，连GitHub被防火长城屏蔽了一半都不知道，不过可以改hosts。我一般用秃珀~waNg络审碴的方法上GitHub搞本网站。
+1月29日：可算弄明白不蒜子了，现在统计的不错，不过我打算在春节正式开放不蒜子的功能，现在还是测试中。更改了本网站的主页大图片。增加实时显示网页运行时间的html。有人说本网站的开源地址上不去，我觉得真的是有意思，连GitHub被防火长城屏蔽了一半都不知道。
 
 1月28日：我看有一个网站有一行字说它稳定运行多久的，觉得不错，然后费了好大劲把那行字的html弄好了，插入到本网站中，但是弄不了...  
 最开始本网站用的是gridea，结果开85%、原生、付费、延迟50ms的dai理jie点都同步不上去，后来打算用hexo、hugo、jekyll之类的建本网站，但是光安装我就不会，还是放弃了，现在不用那些软件了，自己一点点弄，根本弄不了高级一点的。  
@@ -32,17 +33,17 @@
 
 1月27日：发现Duckduckgo收录了本网站，但不知道什么时候收录的。
 
-1月26日：添加google analytics分析本网站。添加不蒜子计数（在主页有），目前尚未开始计数，大约1天以内能好。（2.2）
+1月26日：添加google analytics分析本网站。
 
-1月25日：重大更新：将拦路小丑专区、yjt专区、欢迎界面移了地方。更改[反馈](https://support.qq.com/products/378149)区。版本（2.1）
+1月25日：重大更新：将拦路小丑专区、yjt专区、欢迎界面移了地方。更改[反馈](https://support.qq.com/products/378149)区。
 
 1月24日：据说我住的小区里有一个covid19密接，23日和24日，物业让我们去做两次核酸。  
 我编辑本网站时，GitHub反应太慢，出现了一只独角兽！吓死我了。不过我认为一个没看过本网站的404界面的人看本网站的[404界面](https://diandaokongge.github.io/1)，吓得更坏。  
-更新(2.0)：  
+更新：  
 1.把博客正文迁移至diandaokongge.github.io/blog，不能让主页太臃肿。  
 2.把本网站改成了`颠倒空格`官网。
 
-1月23日：为本网站添加copyright。版本（1.2）  
+1月23日：为本网站添加copyright。 
 为本网站添加logo：  
 ![图片1](https://user-images.githubusercontent.com/94299076/150637791-d1e7d9aa-ae6e-4da9-86d4-e38adbf188d7.png)  
 图片是256\*256像素的，所以会看起来会模糊。我打算把那张图片设置为本网站在浏览器里显示的logo，但没有成功。  
@@ -68,7 +69,7 @@
 
 1月8日：本网站被Bing收录。
 
-1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。（1.1）  
+1月7日：本网站更新到1.1.0版本，开始嵌入超链接、图片，开始充分使用markdown语法。  
 自1月7日起，图片使用GitHub的图床。（非广告）
 
 1月6日：“大日‘病毒’”很有意思，把班级的电脑的英语光盘课件反复弹出。  
@@ -121,7 +122,7 @@
 
 12月1日：在当天晚上8时50分至当天晚上9时08分网站被黑客攻击，期间本网站上不去。据站长调查，那名攻击本网站的黑客姓姜，性别男，是站长的某同学，案发后第二天自己向站长赔礼道歉，承认错误，在此不追究责任。
 
-## 21年11月27日21时4分：建站日 版本1.0
+## 21年11月27日21时4分：建站日
 
 11月25日：当天中午13时20分，全体\*年级\*班在操场上合唱一首叫《时间像小马车》很多遍。故曰：\*\*\*气死日。  
 所有带\*的都是因为有人不让写，所以给匿了。
