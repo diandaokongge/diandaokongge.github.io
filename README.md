@@ -20,9 +20,17 @@
 </script>  
 
 
-访问量：  
+总访问量：  
 <span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_uv"></span>人
+</span>
+
+<span id="busuanzi_container_site_pv">
   本站访客数<span id="busuanzi_value_site_uv"></span>人次
 </span>
 
+本页访问量：  
+<span id="busuanzi_container_page_pv">
+  本文阅读量<span id="busuanzi_value_page_pv"></span>次
+</span>
 **Copyright © 2022 颠倒空格官网 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
