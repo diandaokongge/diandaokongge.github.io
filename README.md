@@ -16,9 +16,6 @@
 ## [点击此处](https://diandaokongge.github.io/big-sun.bat)查看“大日‘病毒’”。  
 ## [点击此处](https://diandaokongge.github.io/privacy)查看隐私政策。
 
-![6cfdf0552e26e4604625bf4e3b5524c4](https://user-images.githubusercontent.com/94299076/151685020-32567762-931d-478c-8f6b-e02262cce803.gif)
-![e5e658fdcad8e3c9ef2c2b9507496d46](https://user-images.githubusercontent.com/94299076/151685022-6f57e037-989a-4e3f-8a3d-475e0730aefb.gif)
-
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>  
