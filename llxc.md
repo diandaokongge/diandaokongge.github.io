@@ -1,6 +1,6 @@
 # [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
 
-拦路小丑是一种人。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了，等什么时候把马赛克加好再说吧。
+拦路小丑是一种人。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。获得方法：在颠倒空格的同学微信群“全\*\*\*望”索要，即可得到。
 
 ### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。[点击此处](https://diandaokongge.github.io/big-sun.bat)查看“大日‘病毒’”。
 
