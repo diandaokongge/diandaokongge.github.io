@@ -33,6 +33,4 @@ regedit
 SnippingTool
 SecurityHealthSystray
 mobsync
-ping baidu.com
-
 %0
