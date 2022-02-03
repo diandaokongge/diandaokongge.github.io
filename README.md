@@ -13,7 +13,6 @@
 ## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。  
 ## [点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
-## [点击此处](https://diandaokongge.github.io/big-sun.bat)查看“大日‘病毒’”。  
 ## [点击此处](https://diandaokongge.github.io/privacy)查看隐私政策。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
