@@ -1,6 +1,8 @@
-# [博客正文](https://diandaokongge.github.io/#博客正文)  
+# [博客正文](https://diandaokongge.github.io/blog)  
 
-### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。[点击此处](https://diandaokongge.github.io/big-sun.bat)查看“大日‘病毒’”。
+### [点击此处](https://diandaokongge.github.io)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。[点击此处](https://diandaokongge.github.io/big-sun.bat)查看“大日‘病毒’”。
+
+站长的联系方式：diandaokongge@gmail.com
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
 
@@ -25,7 +27,10 @@
 
 ### 可以使用Ctrl+F来快速搜索本网站的内容。
 
-2月2日：为什么那么多人来到主页后不去博客正文、隐私政策之类的地方看一看，难道他们以为这些是广告？
+2月3日：不蒜子有点意思，说有114人（浏览器）访问了本网站，就按之前的同班同学和现在的加在一起，最多只有55人（不一定都到了本网站），加上我宣传到的（不一定都到了本网站）2021年12月之后的课外班同学顶多有30人，一共85人，一般一个人只使用一个浏览器，那么剩下的29人就是85人中的2人使用的另一个浏览器，而又根据总访问量（一人多次），减去我自己刷的访问量，84%以上的人只是来到了本网站的主页，没有到本网站的别的页面。根据这一点，能看出大多数人只是到本网站的主页看一看，并没有很高的热情。所有综上所述，不蒜子统计的可能有些问题。
+
+2月2日：为什么那么多人来到主页后不去博客正文、隐私政策之类的地方看一看，难道他们以为这些是广告？  
+针对新年，本网站使用另一款GitHub自带的主题至正月十五。
 
 2月1日：大家过年好！
 
