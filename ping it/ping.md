@@ -1,3 +1,3 @@
 input "Win+R"  
-input "cmd"
+input "cmd"  
 input "ping diandaokongge.github.io"
