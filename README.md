@@ -9,7 +9,8 @@
  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
 
-## [点击此处](https://diandaokongge.github.io/blog)到达博客正文。  
+## [点击此处](https://diandaokongge.github.io/diary)到达日记正文。（原博客正文）  
+## [点击此处](https://diandaokongge.github.io/blog)到达博客正文。
 ## [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。  
 ## [点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。  
