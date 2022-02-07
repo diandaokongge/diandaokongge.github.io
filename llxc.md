@@ -4,7 +4,7 @@
 
 1月31日：杨认为站长把拦路小丑写上去，实在是太礼貌了。
 
-### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。
+### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
