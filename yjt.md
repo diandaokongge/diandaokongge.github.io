@@ -4,7 +4,7 @@
 
 1月21日：yjt表示本网站的[404界面](https://diandaokongge.github.io/404)很吓人。他还表示本网站很有意思。
 
-### [点击此处](https://diandaokongge.github.io/blog)到达主页。[点击此处](https://diandaokongge.github.io/blog)到达博客正文。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。[点击此处](https://diandaokongge.github.io/welcome)到达欢迎界面。
+### [点击此处](https://diandaokongge.github.io/)到达主页。[点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
