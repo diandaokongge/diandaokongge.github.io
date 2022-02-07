@@ -5,7 +5,7 @@
 一位为颠倒空格作出巨大贡献的人：[yjt](https://diandaokongge.github.io/yjt)  
 上[必应](https:cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)搜`颠倒空格`可以搜到本网站。  
 流星雨：[https://diandaokongge.github.io/1](https://diandaokongge.github.io/1)  
-<font size=2></font>实际上，这个个人网站是我用来<font size=1></font>装b</font>的。</font>
+<font size=1></font>实际上，这个个人网站是我用来装b的。</font>
  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
  
