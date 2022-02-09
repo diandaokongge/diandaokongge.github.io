@@ -5,7 +5,6 @@
 一位为颠倒空格作出巨大贡献的人：[yjt](https://diandaokongge.github.io/yjt)  
 上[必应](https:cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)搜`颠倒空格`可以搜到本网站。  
 流星雨：[https://diandaokongge.github.io/1](https://diandaokongge.github.io/1)  
-<font size=1></font>实际上，这个个人网站是我用来装b的。</font>
  
 **联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
  
@@ -27,6 +26,6 @@
   本文阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
-### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>
-
+### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script>  
+实际上，这个个人网站是我用来装\*的。  
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
