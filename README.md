@@ -6,7 +6,7 @@
 上[必应](https:cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)搜`颠倒空格`可以搜到本网站。  
 流星雨：[https://diandaokongge.github.io/1](https://diandaokongge.github.io/1)  
  
-**联系站长：邮箱diandaokongge@outlook.com或diandaokongge@gmail.com**  
+**联系站长：邮箱ddkg+site@gmail.com**  
  
 #### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 #### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。   
