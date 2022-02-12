@@ -1,3 +1,7 @@
+># allow google
+User-agent: *
+Allow: /
+
 User-agent: Baiduspider
 Disallow: /
 
