@@ -1,51 +1,5 @@
-># allow google
-User-agent: *
-Allow: /
-
 User-agent: Baiduspider
 Disallow: /
 
-User-agent: Baiduspider-mobile
-Disallow: /
-
-User-agent: Baiduspider-image
-Disallow: /
-
-User-agent: Baiduspider-video
-Disallow: /
-
-User-agent: Baiduspider-news
-Disallow: /
-
-User-agent: Baiduspider-favo
-Disallow: /
-
-User-agent: Baiduspider-cpro
-Disallow: /
-
-User-agent: Baiduspider-ads
-Disallow: /
-
-User-agent: baiduspider
-Disallow: /
-
-User-agent: baiduspider-mobile
-Disallow: /
-
-User-agent: baiduspider-image
-Disallow: /
-
-User-agent: baiduspider-video
-Disallow: /
-
-User-agent: baiduspider-news
-Disallow: /
-
-User-agent: baiduspider-favo
-Disallow: /
-
-User-agent: baiduspider-cpro
-Disallow: /
-
-User-agent: baiduspider-ads
-Disallow: /
+User-agent: *
+Allow: /
