@@ -12,24 +12,7 @@ Meteor Shower: [https://diandaokongge.github.io/1](https://diandaokongge.github.
 ### [click here](https://diandaokongge.github.io/llxc) to reach the blocker clown section.
 ## [click here](https://diandaokongge.github.io/bad) Check out a very bad thing.
 
+In fact, this personal website is what I use to 装\*.  
 
-<script type="text/javascript" src="busuanzi.js"></script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+**Copyright © 2022 颠倒空格's Personal Website All Rights Reserved.** [Feedback](https://support.qq.com/products/378149)  
 
-
-Total visits:
-<span id="busuanzi_container_site_uv">
-  <span id="busuanzi_value_site_uv"></span> visitors to this site
-</span>
-
-Visits to this page:
-<span id="busuanzi_container_page_pv">
-  This article has been read <span id="busuanzi_value_page_pv"></span> times
-</span>
-
-### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11 /27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M ;A=Math.floor(a);b=(aA)*24;B=Math.floor(b);c=(bB)*60;C=Math.floor((bB)*60);D= Math.floor((cC)*60);runtime_span.innerHTML="This site is running: "+A+"day"+B+"hour"+C+"minute"+D+"second"}show_runtime();</script >
-
-In fact, this personal website is what I use to 装\*.
-
-**Copyright © 2022 颠倒空格's Personal Website All Rights Reserved.** [Feedback](https://support.qq.com/products/378149)
