@@ -7,9 +7,10 @@
 流星雨：[https://diandaokongge.github.io/1](https://diandaokongge.github.io/1)  
  
 **联系站长：邮箱ddkgsite@gmail.com**  
- 
-#### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
-#### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。   
+
+## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
+### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
+### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。   
 ### [点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。 
 
 
