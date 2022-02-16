@@ -11,7 +11,7 @@
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。   
-### [点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。 
+### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。本公示保留10,000,000±100,000秒。  
 
 
 <script type="text/javascript" src="busuanzi.js"></script>    
