@@ -1,4 +1,4 @@
-# [拦路小丑](https://diandaokongge.github.io/#拦路小丑)
+# [拦路小丑](https://diandaokongge.github.io/llxc)
 
 拦路小丑是一种人。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。获得方法：在站长的同学微信群“全\*\*\*望”索要，一年内即可得到。
 
