@@ -8,11 +8,11 @@ Meteor Shower: [https://diandaokongge.github.io/1](https://diandaokongge.github.
  
 **Contact webmaster: Email ddkgsite@gmail.com**
  
-### [click here](https://diandaokongge.github.io/yjt) to reach the yjt area.
-### [click here](https://diandaokongge.github.io/llxc) to reach the blocker clown section.
-## [click here](https://diandaokongge.github.io/bad) Check out a very bad thing.
+### [click here](https://diandaokongge.github.io/en/yjt) to reach the yjt area.
+### [click here](https://diandaokongge.github.io/en/llxc) to reach the 拦路小丑 area.
+## [click here](https://diandaokongge.github.io/bad) to Check a very bad thing.
 
-In fact, this personal website is what I use to 装\*.  
+In fact, this personal website is what I use to show off.  
 
 **Copyright © 2022 颠倒空格's Personal Website All Rights Reserved.** [Feedback](https://support.qq.com/products/378149)  
 
