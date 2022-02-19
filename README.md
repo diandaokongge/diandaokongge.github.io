@@ -10,7 +10,7 @@
 ### [点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。  
 ### [点击此处](https://diandaokongge.github.io/llxc)到达拦路小丑专区。   
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。本公示保留10,000,000±100,000秒。  
-
+### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分，期间本网站上不去。据站长调查，在那一段时间里，本网站被一名姓姜的~~黑客~~骇客攻击，是站长的某同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -31,9 +31,9 @@
 
 <style type="text/css"> 
 a:link{color:#fff}
-a:hover{color:#28efe5}
-a:visited{color:#f00}
-a:active{color:#e17c0f}
+a:hover{color:#ff3526}
+a:visited{color:#fff}
+a:active{color:#ff3526}
 a:focus{color:#fff}
 </style> 
 
