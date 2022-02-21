@@ -12,7 +12,7 @@
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。本公示保留10,000,000±100,000秒。  
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分，期间本网站上不去。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。
 ### 公示：在一切顺利的情况下，应该本站在5年之内会有一个域名的。
-### 公示：本网站不用issues，用兔小巢，地址如下：［https://support.qq.com/products/378149］(https://support.qq.com/products/378149)
+### 公示：本网站不用issues，用兔小巢，地址如下：[https://support.qq.com/products/378149](https://support.qq.com/products/378149)
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
