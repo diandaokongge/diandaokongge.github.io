@@ -12,7 +12,6 @@
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分，期间本网站上不去。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。
-### 公示：在一切顺利的情况下，应该本站在10年之内会有一个域名的。
 ### 公示：本网站不用issues，用别的，[https://support.qq.com/products/378149](https://support.qq.com/products/378149)
 
 <script type="text/javascript" src="busuanzi.js"></script>    
@@ -32,7 +31,7 @@
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
-实际上，这个个人网站是我用来装\*的。  
+实际上，这个个人网站是我用来显摆的。  
 [11](https://diandaokongge.github.io/时间像小马车.m4a)
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
