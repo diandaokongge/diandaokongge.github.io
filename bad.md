@@ -4,4 +4,14 @@
 ##### P.S.图中的时间为2022.2.10，(UTC-8:00)。 
 ![1](https://user-images.githubusercontent.com/94299076/153521754-d1e487b7-fd22-406c-81fb-964f1c261d87.jpg)![2](https://user-images.githubusercontent.com/94299076/153521762-1cc34889-fb27-471c-9a78-ec39f5181431.jpeg)  
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BWE6YV1C8S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BWE6YV1C8S');
+</script>
+
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://support.qq.com/products/378149)
