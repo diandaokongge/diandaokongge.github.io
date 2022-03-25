@@ -9,7 +9,9 @@
 ![qrcode_diandaokongge github io - 副本](https://user-images.githubusercontent.com/94299076/156922805-544e7fb5-894f-4d6d-97a6-029c2b97ec3d.png)  
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
+## [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
+
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分，期间本网站上不去。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。
