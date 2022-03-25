@@ -1,10 +1,10 @@
 # [拦路小丑](https://diandaokongge.github.io/llxc)
 
-拦路小丑是一种人，以杨为代表的。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。获得方法：在站长的同学微信群“全\*\*\*望”索要，一年内即可得到。
+拦路小丑是一种人，以杨为代表的。我写了拦路小丑法，下载地址暂不公开。  
 
 1月31日：杨认为站长把拦路小丑写上去，实在是太礼貌了。
 
-### [点击此处](https://diandaokongge.github.io/en)到达主页。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。
+### [点击此处](https://diandaokongge.github.io)到达主页。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
