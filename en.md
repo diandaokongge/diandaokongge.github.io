@@ -14,5 +14,7 @@ Meteor Shower: [https://diandaokongge.github.io/1](https://diandaokongge.github.
 
 In fact, this personal website is what I use to show off.  
 
-**Copyright © 2022 颠倒空格's Personal Website All Rights Reserved.** [Feedback](https://support.qq.com/products/378149)  
+Thanks for Google Translate.
+
+**Copyright © 2022 颠倒空格's Personal Website  All Rights Reserved.** [Feedback](https://support.qq.com/products/378149)  
 
