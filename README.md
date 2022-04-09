@@ -10,8 +10,10 @@
 ![qrcode_diandaokongge github io - 副本](https://user-images.githubusercontent.com/94299076/156922805-544e7fb5-894f-4d6d-97a6-029c2b97ec3d.png)  
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
-## [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
+### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
+
+## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
