@@ -34,9 +34,12 @@
 他是 中国-北京-海淀区-万寿路学区-太平路街道-北京市建华实验学校-教学楼-小学部-二层-五年级-三班-第一排-第五列 的一个人。**[他的家庭住址](http://bjjh201703.com/col.jsp?id=102)是 中国-北京-海淀区-老山西里-39号楼-7单元-3层-301室**。他叫张一川。
 
 ## 三、扫地王张一川的照片：  
-**900\*600的：[https://diandaokongge.github.io/tuchuang/zyc-900*600.md](https://diandaokongge.github.io/tuchuang/900*600.md)  
-1500\*1000的：[https://diandaokongge.github.io/tuchuang/zyc-1500*1000.md](https://diandaokongge.github.io/tuchuang/zyc-1500*1000.md)  
-3000\*2000的：[https://diandaokongge.github.io/tuchuang/zyc-3000*2000.md](https://diandaokongge.github.io/tuchuang/zyc-3000*2000.md)  
+900\*600的：[https://diandaokongge.github.io/tuchuang/zyc-900*600.md](https://diandaokongge.github.io/tuchuang/900*600.md)  
+
+1500\*1000的：[https://diandaokongge.github.io/tuchuang/zyc-1500*1000.md](https://diandaokongge.github.io/tuchuang/zyc-1500*1000.md) 
+
+3000\*2000的：[https://diandaokongge.github.io/tuchuang/zyc-3000*2000.md](https://diandaokongge.github.io/tuchuang/zyc-3000*2000.md) 
+
 6000\*4000的：[https://musetransfer.com/s/top6xfono](https://musetransfer.com/s/top6xfono)**
 
 ## 四、张一川的班级网站
@@ -114,8 +117,6 @@ http://bjjh201703.com/  **没有ssl证书！**
 
 “只要找我的爸爸，让他配合一下我就有照片了。他们很支持我搞这些东西。”
 
-阿！张一川的父母有无穷无尽的奇怪的事，都是我往常的朋友所惊讶的。他们不知道一些事，在家里时，他们都和我一样只看见作业和试卷。
-
-可惜正月过去了，闰土须回家里去，我急得大哭，他也躲到厨房里，哭着不肯出门，但终于被他父亲带走了。他后来还托他的父亲带给我一包贝壳和几支很好看的鸟毛，我也曾送他一两次东西，但从此没有再见面。
+阿！张一川有无穷无尽的奇怪的事，都是我往常的朋友所惊讶的。他们不知道一些事，在家里时，他们都和我一样只看见作业和试卷。
 
 欲知后事如何，且听下回分解。
