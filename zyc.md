@@ -40,7 +40,7 @@
 
 1500\*1000的：[https://diandaokongge.github.io/tuchuang/zyc-1500-1000](https://diandaokongge.github.io/tuchuang/zyc-1500-1000) 
 
-3000\*2000的：[https://diandaokongge.github.io/tuchuang/zyc-3000-2000]https://diandaokongge.github.io/tuchuang/zyc-3000-2000) 
+3000\*2000的：[https://diandaokongge.github.io/tuchuang/zyc-3000-2000](https://diandaokongge.github.io/tuchuang/zyc-3000-2000) 
 
 6000\*4000的：[https://musetransfer.com/s/top6xfono](https://musetransfer.com/s/top6xfono)
 
