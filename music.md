@@ -6,8 +6,7 @@
 
 ## 上课铃：  
 - 1.2019年下半年、2020（不包括6月）、2021、2022年版本（来源于网络）： [聆听完整音乐音频](https://diandaokongge.github.io/Yiruma%20-%20Kiss%20The%20Rain.mp3)  
-### 2.[聆听仅有上课铃音频](https://diandaokongge.github.io/skl.m4a)（备注：这首音乐里的上课铃部分最后有几秒和真实的上课铃有所不同，鉴于站长能力有限，不会改音乐，于是就剪掉了）
-- 3.忘了是之前哪一年（在2016、2017、2018以及2019年的上半年中）的版本（来源于网络）： [聆听音频](https://diandaokongge.github.io/Joe%20Hisaishi%20-%20Summer.mp3)  
+### 2.[聆听仅有上课铃音频](https://diandaokongge.github.io/skl.m4a)（备注：这首音乐里的上课铃部分最后有几秒和真实的上课铃有所不同，鉴于站长能力有限，不会改音乐，于是就剪掉了） 
 - 其他版本目前无法寻到。
 
 ## 下课铃
