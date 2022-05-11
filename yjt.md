@@ -1,6 +1,6 @@
-# [yjt](https://diandaokongge.github.io/yjt)
+# [杨建韬](https://diandaokongge.github.io/yjt)
 
-他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区，写了“yjt求职”文档。yjt是那个人的名的拼音的首字母。
+## 他是我之前2020年课外班的同学。是他先搞出来颠倒空格的，所以我为他建立了一个专区。我在2020年写了“杨建韬求职”文档。下载地址：[https://diandaokongge.github.io/杨建韬求职.zip](https://diandaokongge.github.io/杨建韬求职.zip)。密码是杨建韬的微信昵称拼音。
 
 1月21日：yjt表示本网站的[404界面](https://diandaokongge.github.io/404)很吓人。他还表示本网站很有意思。
 
