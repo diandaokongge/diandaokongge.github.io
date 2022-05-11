@@ -1,8 +1,10 @@
 # 反馈 颠倒空格的个人网站
 ## 有三种反馈方式
 # 第一种：[https://github.com/diandaokongge/diandaokongge.github.io/issues/new](https://github.com/diandaokongge/diandaokongge.github.io/issues/new)
-## 注意：第一种在中国大陆的网络环境下，有一半概率进不去，另一半概率可以正常发表反馈，支持markdown但是前提是你需要有一个GitHub账号！不建议游客反馈。
+## 注意：在中国大陆网络不稳定，必须有GitHub账号。
 # 第二种：[https://support.qq.com/products/378149](https://support.qq.com/products/378149)
-## 注意：第二种无网络问题，但是前提是你必须有一个疼讯的账号，可以是微信或者QQ的账号。不建议手机不在身边的人反馈。
-# 第三种：邮箱反馈。ddkgsite@gmail.com
-## 注意：不建议没有Email的人反馈。
+## 注意：在电脑上要登录qq账号或微信账号。手机上直接发表。
+# 第三种：[https://hack.chat/?diandaokongge](https://hack.chat/?diandaokongge)或[https://beta.hack.chat/?diandaokongge](https://beta.hack.chat/?diandaokongge)
+## 游客可以挑选任意一个直接反馈，两个链接是一样的聊天室。
+# 第四种：邮箱反馈。ddkgsite@gmail.com
+## 注意：不建议没有电子邮箱的人反馈。
