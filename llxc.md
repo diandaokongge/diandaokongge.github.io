@@ -1,10 +1,10 @@
 # [拦路小丑](https://diandaokongge.github.io/llxc)
 
-拦路小丑是一种人，以杨为代表的。我写了拦路小丑法，下载地址暂不公开。  
+## 拦路小丑是一种人，以杨为代表的。我写了拦路小丑法，下载地址为：[https://diandaokongge.github.io/拦路小丑法.zip](https://diandaokongge.github.io/拦路小丑法.zip)。密码是拦路小丑所在小学班级的班主任姓名拼音，共八个英文字母。
 
 1月31日：杨认为站长把拦路小丑写上去，实在是太礼貌了。
 
-### [点击此处](https://diandaokongge.github.io)到达主页。[点击此处](https://diandaokongge.github.io/yjt)到达yjt专区。
+### [点击此处](https://diandaokongge.github.io)到达主页。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
