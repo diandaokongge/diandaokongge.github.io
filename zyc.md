@@ -1,4 +1,4 @@
-## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川所写的皆为假冒！
+## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
 [![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)](https://diandaokongge.github.io/tuchuang/zyc-3000-2000)
 
