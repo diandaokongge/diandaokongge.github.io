@@ -10,6 +10,7 @@
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
+# [点击此处](https://diandaokongge.github.io/zyc)到达7000字的《张一川传》。  
 
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 
@@ -17,6 +18,7 @@
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
 ### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名黑客——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对黑客张一川进行了以牙还牙。
+### 公示：自2022年9月1日起，本网站的更新频率从一个月十几次更改到一个月一两次。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
