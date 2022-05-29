@@ -2,23 +2,22 @@
 [![颠倒空格](https://user-images.githubusercontent.com/94299076/167138129-4174978a-a417-4c03-ad4c-c89d289e9858.png)](https://diandaokongge.github.io/)  
 <font size=5>diandaokongge是颠倒空格的拼音。 </font>  
 ### 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。我是不会给你颠倒空格的。  
-#### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年8月一个课外班同学用Classin发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白。第二种是颠倒空格。第三种是什么我完全不记得了。因为之前Classin也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
+#### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日课外班同学用Classin发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段，我是不会给你的。因为之前Classin也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
 **一位为颠倒空格作出巨大贡献的人：[yjt](https://diandaokongge.github.io/yjt)**   
-上[必应](https://cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com/)搜`颠倒空格`可以搜到本网站。  
+上[必应](https://cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
-# [点击此处](https://diandaokongge.github.io/zyc)到达7000字的《张一川传》。  
+# [点击此处](https://diandaokongge.github.io/zyc)到达6200字的原创——《张一川传》。  
 
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
-### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名黑客——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对黑客张一川进行了以牙还牙。
-### 公示：自2022年9月1日起，本网站的更新频率从一个月十几次更改到一个月一两次。
+### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名黑客（不是骇客）——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对黑客（不是骇客）张一川进行了五倍的以牙还牙。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
