@@ -10,7 +10,7 @@
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
-## [点击此处](https://diandaokongge.github.io/special)查看本网站特殊主题和升级记录。 
+## [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
 # [点击此处](https://diandaokongge.github.io/zyc)到达6200字的原创——《张一川传》。  
 
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
