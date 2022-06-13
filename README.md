@@ -2,7 +2,7 @@
 [![颠倒空格](https://user-images.githubusercontent.com/94299076/167138129-4174978a-a417-4c03-ad4c-c89d289e9858.png)](https://diandaokongge.github.io/)  
 <font size=6>diandaokongge是颠倒空格的拼音。 </font>  
 ### 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。我是不会给你颠倒空格的。  
-#### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日课外班同学用Classin发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段，我是不会给你的。因为之前Classin也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
+#### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日课外班同学用Classin发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段，是由[temps](https://diandaokongge.github.io/temps)所制作因为之前Classin也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
 **一位为颠倒空格作出巨大贡献的人：[yjt](https://diandaokongge.github.io/yjt)**   
 上[必应](https://cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 
@@ -12,7 +12,7 @@
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
 ## [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
 # [点击此处](https://diandaokongge.github.io/zyc)到达6300字的原创——《张一川传》。  
-
+### 公示：[点击此处](https://diandaokongge.github.io/temps)到达temps专区。
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 
 ### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
