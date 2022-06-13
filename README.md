@@ -12,10 +12,9 @@
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
 ## [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
 # [点击此处](https://diandaokongge.github.io/zyc)到达6300字的原创——《张一川传》。  
-### 公示：[点击此处](https://diandaokongge.github.io/temps)到达temps专区。
+### [点击此处](https://diandaokongge.github.io/temps)到达temps专区。
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
-
-### 公示：[点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
+### [点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
 ### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名黑客（不是骇客）——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对黑客（不是骇客）张一川进行了五倍的以牙还牙。
