@@ -1,4 +1,4 @@
-# 持续更新的
+# 全部来自网络搜集！！！
 
 所有B开头的，用resillo sync下载，我把软件安装包（苹果及Windows）发在群里。下载完成后安装，安装完成后打开，选择左上角加号，选择最下面的输入链家输入那些链接即可，选择要下载到的文件夹（最好是空的），就开始下载。  
 如果分享：  
@@ -21,7 +21,13 @@ BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE    IT电子书
 BTLZ4A4UD3PEWKPLLWEOKH3W7OQJKFPLG    翻墙软件  
 B7P64IMWOCXWEYOXIMBX6HN5MHEULFS4V    某净说大实话网站离线版本链接，500MB  
 
-https://pan.baidu.com/wap/init?surl=1geOwWn_nuEe-YhkoAfi3w  密码6666
-https://pan.baidu.com/s/198BNNDE8g-SuBe5MwNsMfg  密码6666
+https://pan.baidu.com/wap/init?surl=1geOwWn_nuEe-YhkoAfi3w  密码6666  
+https://pan.baidu.com/s/198BNNDE8g-SuBe5MwNsMfg  密码6666  
+https://musetransfer.com/s/tu47livqo  211款英文商业字体  
+https://www.aliyundrive.com/s/iBnYbU3zMyA/folder/61ea42def48ebe07d3154e42bb12da8dd9d7ca35  必应壁纸分享  
+https://www.aliyundrive.com/s/uQjgo5eJaun  软件  
+https://www.aliyundrive.com/s/AsGE5p8wT7M   
+https://www.aliyundrive.com/s/E4KdGmqnDs7  
+https://www.aliyundrive.com/s/pR7WwCSr4TG  软件
 
-目前超过20个GB了。
+目前超过20个TB了。
