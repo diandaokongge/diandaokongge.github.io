@@ -419,6 +419,8 @@ D：哦。
 
 ## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
+全文共9516字。
+
 在2022.6.30日更新《张一川传》完毕。
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)
