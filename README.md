@@ -7,13 +7,13 @@
 上[必应](https://cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 
 <font size="5" color="red">关注颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
-
+### 本网站为方便访问，启用新域名abc.c1n.cn，可至主页。
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
 ## [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
-<font size="6" color="purple"><a href="https://diandaokongge.github.io/zyc">点击此处到达6000+字的原创——《张一川传》</a></font>  
+<font size="6" color="green"><a href="https://diandaokongge.github.io/zyc">点击此处到达8000+字的原创——《张一川传》</a></font>  
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 ### [点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
