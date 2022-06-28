@@ -1,4 +1,5 @@
-张一川传  
+<title>张一川传</title>    
+
 [![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)](https://diandaokongge.github.io/tuchuang/zyc-3000-2000)
 
 # 张一川传
@@ -16,7 +17,7 @@
   《张一川传》阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
-张一川传有声书（测试，2022.6.30更新完毕，目前已更新50%）：[《张一川传》有声书-前50%.zip](https://github.com/diandaokongge/diandaokongge.github.io/files/8767489/-.2022.6.30.zip)
+张一川传有声书（测试，2022.7.30更新完毕，目前已更新50%）：[《张一川传》有声书-前50%.zip](https://github.com/diandaokongge/diandaokongge.github.io/files/8767489/-.2022.6.30.zip)
 
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
 感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。（维基百科使用的开源协议和本网站的一样，不造成问题。）  
@@ -421,6 +422,6 @@ D：哦。
 
 全文共9516字。
 
-在2022.6.30日更新《张一川传》完毕。
+在2022.7.30日更新《张一川传》完毕。
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)
