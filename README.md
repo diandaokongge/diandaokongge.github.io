@@ -7,7 +7,7 @@
 上[必应](https://cn.bing.com)或[Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 
 <font size="5" color="red">关注颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
-### 本网站为方便访问，启用新域名abc.c1n.cn，可至主页。
+### 本网站为方便访问，启用新域名ab.c1n.cn，可至主页。
 ## [click here](https://diandaokongge.github.io/en) to check the English version on my site.  
 ## [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
@@ -19,6 +19,8 @@
 
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
 ### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名骇客——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对骇客张一川进行了五倍的以牙还牙。
+
+### 本网站不是商业网站，这里的一切都是开源的，采用[CC BY-NC-SA 3.0（署名-非商业性使用-相同方式共享 3.0 未本地化版本）](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -38,5 +40,5 @@
 
 [![](https://user-images.githubusercontent.com/94299076/164439792-66e074db-fb80-4335-8404-51bd47391b91.gif)](https://diandaokongge.github.io/)  
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
-2021.11.27  21:04
+2021.11.27  21:04  
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)
