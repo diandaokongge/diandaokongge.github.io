@@ -13,7 +13,6 @@
 ### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
 ## [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
 ## [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
-<font size="6" color="green"><a href="https://diandaokongge.github.io/zyc">点击此处到达8000+字的原创——《张一川传》</a></font>  
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 ### [点击此处](https://diandaokongge.github.io/bad)查看一件很不好的事情。  
 
