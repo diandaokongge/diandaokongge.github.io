@@ -19,7 +19,7 @@
 ### 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
 ### 公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名骇客——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对骇客张一川进行了五倍的以牙还牙。
 
-[点击查看](https://muselink.cc/diandaokongge)站长的所有社交方式。
+## [点击查看](https://muselink.cc/diandaokongge)站长的所有社交方式。
 ### 本网站不是商业网站，这里的一切都是开源的，采用[CC BY-NC-SA 3.0（署名-非商业性使用-相同方式共享 3.0 未本地化版本）](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 
 <script type="text/javascript" src="busuanzi.js"></script>    
