@@ -11,7 +11,7 @@
 ## 新增原创文章：[如何骂一个人180代祖宗](https://diandaokongge.github.io/your-180s-ancestor)
 ## [点击此处](https://diandaokongge.github.io/zyc)查看《张一川传》。  
 ### [点击此处](https://diandaokongge.github.io/yjt)到达**yjt**专区。  
-#### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  
+<!-- #### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  -->!
 ### [点击此处](https://diandaokongge.github.io/llxc)到达**拦路小丑**专区。   
 ### [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
@@ -36,6 +36,8 @@
 <span id="busuanzi_container_page_pv">
   本文阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
+
+<script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
