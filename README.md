@@ -8,7 +8,7 @@
 
 <font size="5" color="red">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
 ## 新增原创文章：[如何骂一个人180代祖宗](https://diandaokongge.github.io/your-180s-ancestors)
-## [点击此处](https://diandaokongge.github.io/article/zyc)查看《张一川传》。  
+## [点击此处](https://diandaokongge.github.io/zyc)查看《张一川传》。  
 ### [点击此处](https://diandaokongge.github.io/article/yjt)到达**yjt**专区。  
 <!-- #### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  -->
 ### [点击此处](https://diandaokongge.github.io/article/llxc)到达**拦路小丑**专区。   
