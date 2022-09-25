@@ -16,6 +16,9 @@
   《张一川传》阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
+访客统计：  
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
 ## 自2022.9.1开始，张一川传很少更新，因为站长没时间。
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
 感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。（维基百科使用的开源协议和本网站的基本一样，不造成问题。）  
