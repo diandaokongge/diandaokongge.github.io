@@ -48,164 +48,33 @@
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
 
-
-   
-     <style>
-	     .header{ 
-
-width: 100%;
-height: 100px;
-background-color: rgb(193,36, 237);
-position: relative;
-}
-.container{ 
-
-width: 1226px;
-height: 20px;
-margin: 0 auto;
-}
-.header .logo{ 
-
-float: left;
-margin-top: 25px;
-}
-.logo a{ 
-
-display: block;
-width: 150px;
-height: 150px;
-}
-.header .list{ 
-
-float: left;
-width: 820px;
-height: 88px;
-padding: 12px 0 0 30px;
-}
-clearfix::after{ 
-
-content: '';
-clear: both;
-display: block;
-}
-a{ 
-
-text-decoration: none;
-}
-.header li{ 
-
-float: left;
-list-style: none;
-}
-.list li{ 
-
-padding: 28px 10px 38px ;
-display: block;
-color: rgb(68, 57, 5);
-}
-.search{ 
-
-float: right;
-width: 296px;
-margin-top: 10px;
-position: absolute;
-top: 28px;
-right: 53px;
-}
-.search form{ 
-
-height: 50px;
-width: 296px;
-} 
-.content1{ 
-
-display: block;
-width: 223px;
-height: 48px;
-border: 1px solid #e0e0e0;
-padding: 0 10px;
-float:right;
-}
-.search1{ 
-
-width: 49px;
-height: 49px;
-float: right;
-} 
-.list li:hover{ 
-
-color: rgb(168, 81, 81);
-font-size: larger;
-}
-
-.go-top {
-    position: fixed;	        /* 设置fixed固定定位 */
-    bottom: 20px;		/* 距离浏览器窗口下边框20px */
-    right: 20px;		/* 距离浏览器窗口右边框20px */
-  }
-  .go-top a {
-    display: block;			/* 将<a>标签设为块元素，用于美化样式 */
-    text-decoration: none;		/* 取消超链接下画线 */
-    color: #333;			/* 设置文本颜色 */
-    background-color: #f2f2f2;		/* 设置背景颜色 */
-    border: 1px solid #ccc;		/* 设置边框样式 */
-    padding: 10px 20px;			/* 设置内边距 */
-    border-radius: 5px;			/* 设置圆角矩形 */
-    letter-spacing: 2px;		/* 设置文字间距 */
-  }
-
-  </style>
-    
-
-<title>diandaokongge.github.io</title>
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="diandaokongge.github.io" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="zyc~" />
-<meta property="og:description" content="zyc~" />
-<link rel="canonical" href="https://diandaokongge.github.io/" />
-<meta property="og:url" content="https://diandaokongge.github.io/" />
-<meta property="og:site_name" content="diandaokongge.github.io" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="diandaokongge.github.io" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"zyc~","headline":"zzzzzyc.github.io","name":"zzzzzyc.github.io","url":"https://zzzzzyc.github.io/"}</script>
-
-<link rel="stylesheet" href="/assets/css/style.css?v=a3d2f64f45dfeeeb7a0befa4a7b16a0be9d10cd8">
-
-  </head>
-  <body>
-	
-	        <div class="header">
-<div class="container" clearfix>
-<div class="logo">
-	
-	
-<a href="#">
-<img src="/favicon.ico" width="60" alt=颠倒空格的个人网站">
-</a>
-</div>
-<ul class="list">
-<li>
-	<a href="https://diandaokongge.github.io">主页</a>
-</li>
-	<li>
-<a href="">|</a>
-</li>
-<li>
-<a href="https://diandaokongge.github.io/article">文章列表</a>
-</li>
-</ul>
-<div class="search">
-<form>
-	<h2 id = "xuanchuan">zzzzzyc.github.io</h4>
-</form>
-</div>
-</div>
-</div>
-
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
+
+    <script language="javascript">
+function getCurrentDate(){
+	var date=new Date();
+	var monthArray=new Array("一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月");
+	var weekArray=new Array("周日","周一","周二","周三","周四","周五","周六");
+	month=date.getMonth();
+	day=date.getDate();
+	if(day.toString().length==1){
+		day="0"+day.toString();
+	}
+	document.write(+date.getFullYear()+" "monthArray[month]+" "+day+", "+weekArray[date.getDay()]);
+}
+</script>
+	  <script language="javascript">
+function getyeargood(){
+	var date=new Date();
+	var monthArray=new Array(" "," "," "," "," "," "," "," "," "," "," "," ");
+	var weekArray=new Array("","","","","","","");
+	month=date.getMonth();
+	day=date.getDate();
+	if(day.toString().length==1){
+		day="0"+day.toString();
+	}
+	  </script>
+
 
 [![](https://user-images.githubusercontent.com/94299076/164439792-66e074db-fb80-4335-8404-51bd47391b91.gif)](https://diandaokongge.github.io/)  
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
