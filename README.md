@@ -80,4 +80,4 @@ function getyeargood(){
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
 2021.11.27  21:04  
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)  
-**友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站2](https://zzzzzyc.github.io)**
+**友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站](https://zzzzzyc.github.io)**
