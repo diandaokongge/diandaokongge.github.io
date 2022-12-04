@@ -19,7 +19,21 @@
 访客统计：  
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
-## 自2022.9.1开始，张一川传很少更新，因为站长没时间。
+## 张一川传音频，更新中
+
+<audio controls>
+	<source src="./file/zyc1.mp3" type="audio/mpeg">
+  <source src="./file/zyc2.mp3" type="audio/mpeg">
+  <source src="./file/zyc3.mp3" type="audio/mpeg">
+  <source src="./file/zyc4.mp3" type="audio/mpeg">
+  <source src="./file/zyc5.mp3" type="audio/mpeg">
+  <source src="./file/zyc6.mp3" type="audio/mpeg">
+  <source src="./file/zyc7.mp3" type="audio/mpeg">
+  <source src="./file/zyc8.mp3" type="audio/mpeg">
+  <source src="./file/zyc9.mp3" type="audio/mpeg">
+  <source src="./file/zyc10.mp3" type="audio/mpeg">
+</audio>
+
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
 感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。（维基百科使用的开源协议和本网站的基本一样，不造成问题。）  
 ## 张一川（？——1639年10月至11月或1640年11月至12月），一说名闻人训，（为什么没有字？因为他才十一岁）自号扫地王，籍贯不详，汉族，明思宗庄烈帝崇祯年间农民起事领袖，后降明，被张献忠所杀，清高宗年间追谥 烈愍 。  
