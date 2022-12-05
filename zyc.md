@@ -58,6 +58,24 @@
 <audio controls>
 	<source src="./file/zyc12.mp3" type="audio/mpeg">
 </audio>
+<audio controls>
+	<source src="./file/zyc13.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc14.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc15.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc16.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc17.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc18.mp3" type="audio/mpeg">
+</audio>
 
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
 感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。（维基百科使用的开源协议和本网站的基本一样，不造成问题。）  
@@ -418,32 +436,5 @@ D：哦。
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
-
-    <script language="javascript">
-function getCurrentDate(){
-	var date=new Date();
-	var monthArray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-	var weekArray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
-	month=date.getMonth();
-	day=date.getDate();
-	if(day.toString().length==1){
-		day="0"+day.toString();
-	}
-	document.write(monthArray[month]+" "+day+", "+date.getFullYear()+" "+weekArray[date.getDay()]);
-}
-</script>
-	  <script language="javascript">
-function getyeargood(){
-	var date=new Date();
-	var monthArray=new Array(" "," "," "," "," "," "," "," "," "," "," "," ");
-	var weekArray=new Array("","","","","","","");
-	month=date.getMonth();
-	day=date.getDate();
-	if(day.toString().length==1){
-		day="0"+day.toString();
-	}
-}
-	  </script>
-
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)
