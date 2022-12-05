@@ -50,33 +50,6 @@
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
-    <script language="javascript">
-function getCurrentDate(){
-	var date=new Date();
-	var monthArray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
-	var weekArray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
-	month=date.getMonth();
-	day=date.getDate();
-	if(day.toString().length==1){
-		day="0"+day.toString();
-	}
-	document.write(monthArray[month]+" "+day+", "+date.getFullYear()+" "+weekArray[date.getDay()]);
-}
-</script>
-	  <script language="javascript">
-function getyeargood(){
-	var date=new Date();
-	var monthArray=new Array(" "," "," "," "," "," "," "," "," "," "," "," ");
-	var weekArray=new Array("","","","","","","");
-	month=date.getMonth();
-	day=date.getDate();
-	if(day.toString().length==1){
-		day="0"+day.toString();
-	}
-	document.write("Copyright © 2022 - " + date.getFullYear() + "   zzzzzyc All Rights Reserved.");
-}
-	  </script>
-
 [![](https://user-images.githubusercontent.com/94299076/164439792-66e074db-fb80-4335-8404-51bd47391b91.gif)](https://diandaokongge.github.io/)  
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
 2021.11.27  21:04  
