@@ -53,14 +53,14 @@
     <script language="javascript">
 function getCurrentDate(){
 	var date=new Date();
-	var monthArray=new Array("一月","二月","三月","四月","五月","六月","七月","八月","九月","十月","十一月","十二月");
-	var weekArray=new Array("周日","周一","周二","周三","周四","周五","周六");
+	var monthArray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+	var weekArray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 	month=date.getMonth();
 	day=date.getDate();
 	if(day.toString().length==1){
 		day="0"+day.toString();
 	}
-	document.write(+date.getFullYear()+" "monthArray[month]+" "+day+", "+weekArray[date.getDay()]);
+	document.write(monthArray[month]+" "+day+", "+date.getFullYear()+" "+weekArray[date.getDay()]);
 }
 </script>
 	  <script language="javascript">
@@ -73,11 +73,12 @@ function getyeargood(){
 	if(day.toString().length==1){
 		day="0"+day.toString();
 	}
+	document.write("Copyright © 2022 - " + date.getFullYear() + "   zzzzzyc All Rights Reserved.");
+}
 	  </script>
-
 
 [![](https://user-images.githubusercontent.com/94299076/164439792-66e074db-fb80-4335-8404-51bd47391b91.gif)](https://diandaokongge.github.io/)  
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
 2021.11.27  21:04  
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)  
-**友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站](https://zzzzzyc.github.io)**
+**友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站2](https://zzzzzyc.github.io)**
