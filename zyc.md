@@ -2,7 +2,8 @@
 [![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)](https://diandaokongge.github.io/tuchuang/zyc-3000-2000)
 
 # 张一川传
-我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。
+我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
+全文共11000+字。预计阅读20+ min。
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -23,15 +24,39 @@
 
 <audio controls>
 	<source src="./file/zyc1.mp3" type="audio/mpeg">
-  <source src="./file/zyc2.mp3" type="audio/mpeg">
-  <source src="./file/zyc3.mp3" type="audio/mpeg">
-  <source src="./file/zyc4.mp3" type="audio/mpeg">
-  <source src="./file/zyc5.mp3" type="audio/mpeg">
-  <source src="./file/zyc6.mp3" type="audio/mpeg">
-  <source src="./file/zyc7.mp3" type="audio/mpeg">
-  <source src="./file/zyc8.mp3" type="audio/mpeg">
-  <source src="./file/zyc9.mp3" type="audio/mpeg">
-  <source src="./file/zyc10.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc2.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc3.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc4.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc5.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc6.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc7.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc8.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc9.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc10.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc11.mp3" type="audio/mpeg">
+</audio>
+<audio controls>
+	<source src="./file/zyc12.mp3" type="audio/mpeg">
 </audio>
 
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
@@ -383,8 +408,42 @@ D：哦。
 
 ## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
-全文共11000+字。
-
+全文共11000+字。  
 在2022.12.31日更新《张一川传》完毕。
+
+<script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
+
+<script  color="114,514,191" opacity='1' zIndex="-1" count="200" src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
+
+### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
+
+    <script language="javascript">
+function getCurrentDate(){
+	var date=new Date();
+	var monthArray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+	var weekArray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+	month=date.getMonth();
+	day=date.getDate();
+	if(day.toString().length==1){
+		day="0"+day.toString();
+	}
+	document.write(monthArray[month]+" "+day+", "+date.getFullYear()+" "+weekArray[date.getDay()]);
+}
+</script>
+	  <script language="javascript">
+function getyeargood(){
+	var date=new Date();
+	var monthArray=new Array(" "," "," "," "," "," "," "," "," "," "," "," ");
+	var weekArray=new Array("","","","","","","");
+	month=date.getMonth();
+	day=date.getDate();
+	if(day.toString().length==1){
+		day="0"+day.toString();
+	}
+}
+	  </script>
+
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk)
