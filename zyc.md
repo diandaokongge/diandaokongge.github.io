@@ -438,7 +438,7 @@ D：哦。
 
 
 # 四点五、张一川的第二网站
-张一川有第二网站。未完持续……
+张一川有第二网站。是zzzzzyc.github.io。未完持续......
 
 ## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
@@ -451,6 +451,6 @@ D：哦。
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
 
-### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
+### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000*100;z=T/M;Z=Math.floor(z);a=(z-Z)*100;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);e=(e-E)*100;e=Math.floor(e);runtime_span.innerHTML="本站已运行: Z+"年"+A+"天"+B+"小时"+C+"分"+D+"秒"E+"毫秒"}show_runtime();</script> 
 
 **Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站](http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)
