@@ -10,7 +10,7 @@
 
 ## [点击此处](https://diandaokongge.github.io/zyc)查看《张一川传》。  
 ### [点击此处](https://diandaokongge.github.io/your-180s-ancestors)查看一篇不文明的文章。
-## [点击此处](https://diandaokongge.github.io/article/sb)查看一篇转载自维基百科的介绍某公司的文章。
+## [点击此处](https://diandaokongge.github.io/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ### [点击此处](https://diandaokongge.github.io/article/yjt)到达**yjt**专区。  
 <!-- #### [点击此处](https://diandaokongge.github.io/music)到达**眼保健操、上下课铃**专区。  -->
 ### [点击此处](https://diandaokongge.github.io/article/llxc)到达**拦路小丑**专区。   
@@ -50,11 +50,6 @@
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
-    </div>
-     <div class="go-top">
-    <a href="#">返回顶部</a>
-  </div> 
-  
 [![](https://user-images.githubusercontent.com/94299076/164439792-66e074db-fb80-4335-8404-51bd47391b91.gif)](https://diandaokongge.github.io/)  
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
 2021.11.27  21:04  
