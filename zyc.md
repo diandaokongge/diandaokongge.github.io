@@ -20,7 +20,7 @@
 访客统计：  
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
-## 张一川传音频：从左到右；从上到下。
+## 张一川传音频（未完持续）：从左到右；从上到下。
 
 <audio controls>
 	<source src="./file/zyc1.mp3" type="audio/mpeg">
@@ -90,7 +90,7 @@
 </audio>
 
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
-感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。（维基百科使用的开源协议和本网站的基本一样，不造成问题。）  
+感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。
 ## 张一川（？——1639年10月至11月或1640年11月至12月），一说名闻人训，（为什么没有字？因为他才十一岁）自号扫地王，籍贯不详，汉族，明思宗庄烈帝崇祯年间农民起事领袖，后降明，被张献忠所杀，清高宗年间追谥 烈愍 。  
 
 ### 起事
@@ -440,17 +440,15 @@ D：哦。
 # 四点五、张一川的第二网站
 张一川有第二网站。是zzzzzyc.github.io。未完持续......
 
-## 张一川传为颠倒空格原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
+## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
 全文共11000+字。  
-在2022.12.31日更新《张一川传》完毕。
+在2029.12.31日更新《张一川传》完毕。
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
 <script  color="114,514,191" opacity='1' zIndex="-1" count="1000" src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/Ukenn2112/UkennWeb@3.0/index/web.js"></script>
-
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000*100;z=T/M;Z=Math.floor(z);a=(z-Z)*100;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);e=(e-E)*100;e=Math.floor(e);runtime_span.innerHTML="本站已运行: Z+"年"+A+"天"+B+"小时"+C+"分"+D+"秒"E+"毫秒"}show_runtime();</script> 
 
-**Copyright © 2022 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站](http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)
+**Copyright © 2023 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站1]http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)
