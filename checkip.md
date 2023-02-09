@@ -1,16 +1,18 @@
 # 检查你的IP地址：
-## 当前IP地址为：
+### 当前IP地址为：
 
 	  <script language="javascript">
-    
+
 fetch('https://api.ipify.org?format=json')
   .then(response => response.json())
   .then(data => {
     document.getElementById("myIp").innerHTML = data.ip;
   })
   .catch(error => console.error(error));
-  
+
 	  </script>
+
+<p id="myIp"></p>
     
 ## 不会收集你的IP地址。
 
@@ -29,16 +31,4 @@ fetch('https://api.ipify.org?format=json')
   本文阅读量<span id="busuanzi_value_page_pv"></span>次
 </span></p>
 
-	  <script language="javascript">
-function getyeargood(){
-	var date=new Date();
-	var monthArray=new Array(" "," "," "," "," "," "," "," "," "," "," "," ");
-	var weekArray=new Array("","","","","","","");
-	month=date.getMonth();
-	day=date.getDate();
-	if(day.toString().length==1){
-		day="0"+day.toString();
-	}
-	document.write("Copyright © 2021 - " + date.getFullYear() + "   diandaokongge All Rights Reserved.");
-}
-	  </script>
+Copyright 2023 diandaokongge All rights reserved. 
