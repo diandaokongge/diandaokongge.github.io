@@ -8,7 +8,7 @@
 <font size="5" color="red">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
 ## [点击此处](https://diandaokongge.github.io/zyc)查看《张一川传》。  
 ## [点击此处](https://diandaokongge.github.io/article/sb)查看一篇转载自维基百科的“对百度的争议”。
-## [点击此处](https://diandaokongge.github.io/chackip)检测你的IP地址。
+## [点击此处](https://diandaokongge.github.io/checkip)检测你的IP地址。
 ### [点击此处](https://diandaokongge.github.io/update)查看本网站特殊主题和升级记录。 
 ## **[点击此处查看更多由颠倒空格制作的东西](https://diandaokongge.github.io/more)**
 ### [点击此处](https://diandaokongge.github.io/article/bad)查看一件很不好的事情。  
