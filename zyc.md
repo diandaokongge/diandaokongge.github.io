@@ -5,6 +5,7 @@
 我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
 全文共11000+字。预计阅读20+ min。
 
+## [ 点击立刻跳转到2023年3月重磅更新！！！！！！](https://diandaokongge.github.io/zyc/#一切都结束了…………)
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>  
@@ -438,17 +439,40 @@ D：哦。
 
 
 # 四点五、张一川的第二网站
-张一川有第二网站。是zzzzzyc.github.io。未完持续......
+张一川有第二网站。是zzzzzyc.github.io。未完持续......好吧，我也没有精力更新了…………
 
-## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
-
-全文共11000+字。  
-在2029.12.31日更新《张一川传》完毕。
+全文共12000+字。  
+在2023.3.25中午更新《张一川传》完毕。
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
 <script  color="114,514,191" opacity='1' zIndex="-1" count="1000" src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript"></script>
 
+# 写在最后
+
+# 一切都结束了…………
+## 一切都结束了…………
+### 一切都结束了…………
+#### 一切都结束了…………
+##### 一切都结束了…………
+###### 一切都结束了…………
+***一切都结束了…………***
+**一切都结束了…………**
+*一切都结束了…………*
+
+结束了。  
+[http://bjjh201703.com](http://bjjh201703.com) 最开始并不存在。张一川在2022年初春做好了自己的网站，和我一样，用免费的，所以网站是二级域名，后缀是fkw.com。后来张一川毕竟受家长、老师、同学的支持，花了钱，买了[http://bjjh201703.com](http://bjjh201703.com) 域名，买了一年。那一天是2022年3月12日。众所周知的，这一定会在2023年3月12日成为最后一天。我常常想着他的域名到期后我抢他的域名，气着他。  
+我后来没有这个念头后，却也没有居安思危，就任凭离保质期近一天，再近一天。直到3月11日周六，我忽然回忆起了这件事。我打开浏览器，啊，只有一天了。我急急忙忙地查whois信息，发现他并没有续费。当时我害怕极了，立刻用互联网档案馆保存张一川的网站，发现互联网档案馆无能为力。它保存了文字，很多css、js、图片之类的没保存上。我以为还没事，毕竟用一些浏览器扩展等保存浏览器的页面。也失败了。它们把张一川的网站保存得排版错误，破烂不堪。只有一条希望：让张一川续费，毕竟那是一年前贯穿我和张一川故事的线索，也是贯穿本文的线索。我联系了朋友，却发现我之前给他们发的邮件，犹如石沉大海般杳无音讯，短一些的一个月没来往，长一些的快一年了。我匆匆忙忙告诉他们这件事，希望不用结束。    
+第二天，是最后一天，张一川平时回邮件相对积极一些，还是没有回复。那些朋友也一样。我看着时间，16点了，17点了，19点了…………还有几个小时，http://bjjh201703.com 就到生命的尽头了。还是毫无回复，whois信息也丝毫没变。呜呼！我无能为力。我唯一所希望的是，张一川突然发现了，挽救它一年或者几年。我大概知道什么情况：一是他忘掉了这件事，二是他主动不想在做这个网站了，任它离开，三是外部压力，例如学业等。我希望最好是第一种可能好一些，第二种和第三种是他主动放弃。关于第三种可能，他尽管五、六年级了，也没想我这样特别关心什么小升初之类的，我相信他六年级学业压力不及我四年级大，可是我这个网站打六年级建立以来也没有放弃。无论怎么说，结束了。  
+2022年3月13日早晨6点40分————“找不到http://bjjh201703.com 的IP”。呜呼！结束了。一切都结束了。  
+又是一个春天，随着http://bjjh201703.com 的离去，我意识到那时已经一去不复返了。希望张一川能珍惜7月前的几个月，也希望我能有张一川和我那些朋友的音信。结束了。一切都结束了。
+
+注：3月18日、19日为本段打草稿，于25日发出。
+
+————记于2022年3月25日中午。
+
+## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
+
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000*100;z=T/M;Z=Math.floor(z);a=(z-Z)*100;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);e=(e-E)*100;e=Math.floor(e);runtime_span.innerHTML="本站已运行: Z+"年"+A+"天"+B+"小时"+C+"分"+D+"秒"E+"毫秒"}show_runtime();</script> 
 
-**Copyright © 2023 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站1]http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)
+**Copyright © 2023 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站1（没了）](http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)
