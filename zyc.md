@@ -5,7 +5,7 @@
 我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
 全文共11000+字。预计阅读20+ min。
 
-## [ 点击立刻跳转到2023年3月重磅更新！！！！！！](https://diandaokongge.github.io/zyc/#一切都结束了…………)
+## [ 点击立刻跳转到2023年3月重磅更新！！！！！！](https://diandaokongge.github.io/zyc/#一切都结束了)
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>  
