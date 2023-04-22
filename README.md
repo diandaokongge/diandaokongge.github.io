@@ -44,7 +44,19 @@
 
 [car](https://diandaokongge.github.io/时间像小马车.m4a)  
 2021.11.27  21:04  
-
+    <script language="javascript">
+function getCurrentDate(){
+	var date=new Date();
+	var monthArray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+	var weekArray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+	month=date.getMonth();
+	day=date.getDate();
+	if(day.toString().length==1){
+		day="0"+day.toString();
+	}
+	document.write(monthArray[month]+" "+day+", "+date.getFullYear()+" "+weekArray[date.getDay()]);
+}
+</script>
 	  <script language="javascript">
 function getyeargood(){
 	var date=new Date();
@@ -57,6 +69,7 @@ function getyeargood(){
 	}
 	document.write("Copyright © 2021 - " + date.getFullYear() + "   diandaokongge All Rights Reserved.");
 }
-	  </script>   
+	  </script>
+
    [反馈](https://diandaokongge.github.io/fdbk)  
 **友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站2](https://zzzzzyc.github.io)**
