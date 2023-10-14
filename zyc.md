@@ -3,7 +3,7 @@
 
 # 张一川传
 我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
-全文共12000+字。预计阅读20+ min。
+全文共13000+字。预计阅读20+ min。
 
 ## [ 点击立刻跳转到2023年4月重磅更新！！！！！！](https://diandaokongge.github.io/zyc/#重大通知！！)
 <script type="text/javascript" src="busuanzi.js"></script>    
@@ -21,84 +21,16 @@
 访客统计：  
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
-## 张一川传音频（未完持续）：从左到右；从上到下。
-
-<audio controls>
-	<source src="./file/zyc1.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc2.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc3.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc4.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc5.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc6.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc7.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc8.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc9.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc10.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc11.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc12.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc13.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc14.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc15.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc16.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc17.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc18.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc19.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc20.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc21.mp3" type="audio/mpeg">
-</audio>
-<audio controls>
-	<source src="./file/zyc22.mp3" type="audio/mpeg">
-</audio>
-
-文章结构：
-一、张一川身世
-二、张一川身世
-三、扫地王张一川的照片
-四、张一川的班级网站
-五、张一川这个人
-六、张一川的第二网站
-七、张一川的第三网站
-八、写作动机
+目录：
+一、张一川身世  
+二、张一川身世  
+三、扫地王张一川的照片  
+四、张一川的班级网站  
+五、张一川这个人  
+六、张一川的第二网站  
+七、张一川的第三网站  
+八、张一川上初中  
+九、张一川的微信公众号
 
 # 一、张一川身世 （除了加大字号的最后一段以外，本节非原创）
 感谢：[https://zh.wikipedia.org/wiki/张一川](https://zh.wikipedia.org/wiki/张一川) 、《明季北略》、《钦定胜朝殉节诸臣录》、《**流寇**志》、《明史纪事本末》、《明史》等。
@@ -297,7 +229,7 @@ http://bjjh201703.com/  **没有SSL证书！**
 
 赞曰：颠倒空格有言：“张一川真是个难得的‘人才’。”其言兹若人之俦乎？无拘无束，以乐其志，无  之民欤？  之民欤？
 
-## 《张一川二三事——对话——卷二——第一部分》  颠倒空格著
+## 与张的对话
 颠倒空格（简称D）：哎，张一川，问一下，你那个网站是凡科的。我看了凡科上的，说需要实名认证？你怎么通过的。  
 扫地王张一川（简称S）：ang，就通过呗。  
 D：啥意思？  
@@ -318,7 +250,8 @@ S：对啊，**他们很支持我这么做。**
 D：真的假的？  
 S：真的啊。  
 他的神态告诉我，他没有撒谎，尽管在大多数人是不会相信，当然，我也如此。后来有一二日，我没有跟张一川聊天，因为家长都支持，我还能比他厉害？  
-## 《张一川二三事——对话——卷三——第二部分》  颠倒空格著
+
+## 与张的对话
 D：不是，我不理解。你花了几十块钱到拼夕夕上买（电脑）病毒？卡饭和蓝天云有的是，全是免费的，还全。  
 S：**我前两天还在拼夕夕上买刻录机了呢。我要把那些病毒都刻录到一张光盘上。**  
 D：真舍得花钱啊。你这又花了多少钱？  
@@ -342,7 +275,7 @@ D：你家长让你弄？
 S：他们不管这些我自己的事。  
 （张一川走后）D：就离谱。真的很离谱。我竟不知道世上还有这么多奇奇怪怪的人。  
 
-## 《张一川二三事——对话——卷四——第一部分》  颠倒空格著
+## 与张的对话
 
 D：你的学习好吗？  
 S：不怎么好。  
@@ -354,7 +287,7 @@ D：啊？
 S：不对，是89分。（用统一卷。海淀语文统一卷简单，张一川89分，平常应该是85分左右，甚至更低。）  
 D：那可是不高，因为是统一卷吗。  
 
-## 《张一川二三事——对话——卷六——第二部分》  颠倒空格著
+## 与张的对话
 D：我的邮箱是\*\*\*\*\*\*@\*\*\*\*\*\*.com。  
 S：你还用那种邮箱啊？我的邮箱后缀是我自己的班级网站的后缀。  
 D：嗯，我知道那种。但是GitHub pages无法弄什么MX记录的，而且还长。我没钱，买不起自己的域名，所以我暂时用gmail之类的。你的那个又是凡科给的吗？  
@@ -374,7 +307,7 @@ D：这之前咱们聊过，你家长是支持你弄这些东西。
 S：哦对了，我还打算再建个网站。  
 D：扫地王真是闲的没事干。肯定是吃饱了撑的。  
 
-## 《张一川二三事——对话——卷七——第一部分》  颠倒空格著
+## 与张的对话
 D：咱们聊过，你学习不好，体育更差。你家长不管你的学习吗？  
 S：管我的学习。  
 D：但是管了依旧不好，对吧。你有什么升学计划吗？  
@@ -452,7 +385,6 @@ D：哦。
 张一川有第二网站。是zzzzzyc.github.io。未完持续......
 
 # 重大通知！！
-## 重大通知！！
 2023年3月13日，张一川的第一网站域名到期，不复存在！呜呼！不过张一川在4月8日说换成免费的凡科网的域名：[http://zzzzzyc.icoc.ws/](http://zzzzzyc.icoc.ws/)。
 
 内容同http://bjjh201703.com/。  
@@ -489,15 +421,25 @@ zyc/北辰
 
 北辰是他的微信昵称。“冒牌程序员”……我相信他未来就不是冒牌的了，原因是[见上](https://diandaokongge.github.io/#后来我得知，他长大后要靠计算机、机器人吃饭。真是俗世奇人。)“折腾王，摆烂王”折腾是真的，他有的是经济实力和时间来折腾。摆烂二字不知是什么情况。第三行这个自认为，我也是这样认为的，的确是挺牛的。毕竟才十几岁：11岁。
 
-又到了6月，张一川的一派正在填写。我当时是六月十二日看到上的中学的结果。再过两周，就直到张一川的中学了。
+又到了6月，张一川的一派正在填写。我当时是六月十二日看到上的中学的结果。再过两周，就知道张一川的中学了。
 
-# 八、写作动机
-开始是好玩而已，后来成为记录，最后……
+# 八、张一川上初中
+张一川上了初中，还是建华实验学校，不过在海淀区西北旺镇永丰。我用邮箱问他：你住在老山，学校在西北旺，怎么上学？租房子还是搬家还是通勤？张一川用邮箱答道：搬家。
+
+# 九、张一川的微信公众号
+张一川在九月十五日用邮箱告诉我：累死辣！公众号已被重启，请敬候佳音。微信接入gpt项目已经成功，放入csdn专心弄公众号  
+
+### 这使我感到十分震惊！
+chatgpt接口价格不菲，他弄一个公众号我很惊讶，更何况部署chatgpt啊！
+不过几天后失败了。
+
+他在9月15日说：感觉咱俩的联系虽然一个月就几个邮件，但是从来没断过！真神奇，我现在是班里的技术扛把子  
+我认为这话不假。
 
 ## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：https://diandaokongge.github.io/zyc。一切张一川本人所写的皆为假冒！
 
-全文共12000+字。  
-在2024.4.25中午更新《张一川传》完毕。
+全文共13000+字。  
+在2024.4.25中午《张一川传》完结。
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
