@@ -70,6 +70,19 @@ function getyeargood(){
 	document.write("Copyright © 2021 - " + date.getFullYear() + "   diandaokongge All Rights Reserved.");
 }
 	  </script>
+你来自
+	  <script language="javascript">
+
+fetch('https://api.ipify.org?format=json')
+  .then(response => response.json())
+  .then(data => {
+    document.getElementById("myIp").innerHTML = data.ip;
+  })
+  .catch(error => console.error(error));
+
+	  </script>
+
+<p id="myIp"></p>
 
    [反馈](https://diandaokongge.github.io/fdbk)  
 **友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站2](https://zzzzzyc.github.io)**
