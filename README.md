@@ -19,7 +19,7 @@
 
 #### 本网站的一切都是开源的，采用[CC BY-NC-SA 4.0（署名-非商业性使用-相同方式共享 4.0）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-<font size="7" color="pink">2023年11月27日，庆祝本站建站2周年！</font>  
+<font size="7" color="purple">2023年11月27日，庆祝本站建站2周年！</font>  
 
 本站访问人次位置：
 
