@@ -20,7 +20,7 @@
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 目录：  
-序言
+序言  
 一、张一川身世  
 二、张一川身世  
 三、张一川的照片  
@@ -30,7 +30,7 @@
 七、张一川的第三网站  
 八、张一川上初中  
 九、张一川的微信公众号  
-十、未完持续
+十、未完持续  
 
 # 序言：我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
 
