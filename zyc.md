@@ -1,9 +1,9 @@
-![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)
+[![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)](https://diandaokongge.github.io/zyc)
 
 # 张一川传
 全文共13000+字。预计阅读20+ min。
 
-### 上次更新：2023.11.25
+### 上次更新：2023.11.26
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>  
@@ -95,11 +95,11 @@
 
 ## 张一川（2011年4月28日———— ）。
 
-他是 中国-北京-海淀区-永定路街道-十一学校附属建华实验学校（原：建华实验学校）-小学部-2023届-三班 的一个人。[他的家庭住址](http://bjjh201703.com/col.jsp?id=102)是 中国-北京-海淀区-老山街道-老山西里-39号楼-7单元-3层-301室。他的手机号是+86 15533983418 。他叫张一川。
-新：他是 中国-北京-海淀区-西北旺镇-十一学校附属建华实验学校-中学部-2023级-？班 的一个人。他的家庭住址是 中国-北京-海淀区-西北旺镇-？-？-？-？-？（搬家）。
+他是 中国-北京-海淀区-永定路街道-十一学校附属建华实验学校（原：建华实验学校）-小学部-2023届-三班 的一个人。[他的家庭住址](http://bjjh201703.com/col.jsp?id=102)是 中国-北京-海淀区-老山街道-老山西里-39号楼-7单元-3层-301室。他的手机号是+86 15533983418 。他叫张一川。  
+新：他是 中国-北京-海淀区-西北旺镇-十一学校附属建华实验学校-中学部-2023级-？班 的一个人。他的家庭住址是 中国-北京-海淀区-西北旺镇-？-？-？-？-？（搬家）。  
 
 # 三、张一川的照片：  
-## 因为张一川很生气，找到我的邮箱以公司的言辞协商，所以我不放了。
+## 因为张一川很生气（2022.5），找到我的邮箱以我是公司的言辞协商，不让我写任何有关于他的内容。我不能妥协，但思前顾后（2022.7），还是决定删除照片，不然会闹得极不愉快。但是剩下的部分仍然保留。
 # 四、张一川的班级网站
 来源：颠倒空格、张一川等。
 
@@ -466,4 +466,4 @@ chatgpt接口价格不菲，他弄一个公众号我很惊讶，更何况部署c
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行:A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
 **Copyright © 2023 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://diandaokongge.github.io/fdbk) 友链：[张一川的网站1（没了）](http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)[张一川的网站3](http://zzzzzyc.top)  
-![ddkgdraw](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/15c7e65c-58f1-4650-b835-8c0110f2c8d4)
+[![diandaokonggge.github.io](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/4ab5e796-3c6b-4ead-bffc-e332d1376fff)](https://diandaokongge.github.io/)
