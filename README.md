@@ -40,7 +40,7 @@
   本文阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
 
-[![ddkg.top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/4ab5e796-3c6b-4ead-bffc-e332d1376fff)](ddkg.top)
+[![ddkg top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/944b149b-bbac-4648-9dfc-0b034f38f815)](ddkg.top)
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
