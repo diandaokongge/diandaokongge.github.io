@@ -1,8 +1,8 @@
 # 颠倒空格的个人网站
 [![颠倒空格](https://user-images.githubusercontent.com/94299076/167138129-4174978a-a417-4c03-ad4c-c89d289e9858.png)](https://ddkg.top)  
 
-<font size="9" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top</font>  
-
+<font size="9" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top  </font>   
+ 
 <font size="6">diandaokongge是颠倒空格的拼音。 </font>  
 ### 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。我是不会给你颠倒空格的。  
 #### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日某人用ClassIn发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段。因为之前ClassIn也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
@@ -50,6 +50,7 @@
 
 [horse-car](https://ddkg.top/时间像小马车.m4a)  
 2021.11.27  21:04  
+2024.1.22  17:
 
    [反馈](https://ddkg.top/fdbk)  
 **Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1](http://bjjh201703.com/)[张一川的网站2](https://zzzzzyc.github.io)[张一川的网站3](http://zzzzzyc.top)
