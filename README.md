@@ -1,7 +1,7 @@
 # 颠倒空格的个人网站
 [![颠倒空格](https://user-images.githubusercontent.com/94299076/167138129-4174978a-a417-4c03-ad4c-c89d289e9858.png)](https://ddkg.top)  
 
-<font size="9" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top  </font>   
+<font size="7" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top  </font>   
  
 <font size="6">diandaokongge是颠倒空格的拼音。 </font>  
 ### 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。我是不会给你颠倒空格的。  
@@ -10,6 +10,7 @@
 [Google](https://www.google.com)或[必应和Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 <font size="3" color="red">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
 ## [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
+# [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。（新“文章”）
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
 ## [点击此处](https://ddkg.top/picture)查看本网站的图集。
