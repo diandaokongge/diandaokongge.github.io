@@ -1,4 +1,4 @@
-#　批斗
+# 批斗
 
 pidd—  批斗的—
 
@@ -6,7 +6,7 @@ pidd—  批斗的—
 2.	piddles  v.批斗（第三人称单数）
 3.	repiddle  v.重新批斗
 4.	anti-piddle  v.反批斗
-5.	piddling  vn.批斗（现在分词）
+5.	piddling  n.批斗（现在分词）
 6.	piddlation  n.批斗
 7.	piddled  v.批斗（过去式）（过去分词）, adj.批斗的
 8.	repiddled  v.重新批斗的
