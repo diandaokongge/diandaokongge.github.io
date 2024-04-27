@@ -30,4 +30,6 @@ pidd—  批斗的—
 26.	inpiddlized  v.去批斗化的（美）
 27.	piddless  adj. 少批斗的
 28.	piddlessly  adv. 少批斗地
+29.	piddlable  adj.可批斗的
+30.	
 ……未完持续
