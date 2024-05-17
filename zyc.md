@@ -1,8 +1,9 @@
-<!--
+
 [![](https://user-images.githubusercontent.com/94299076/167118721-415d6940-fff6-4a39-bdc2-ecdb67665d45.png)](https://ddkg.top/zyc)
 
 # 张一川传
 全文共13000+字。预计阅读20+ min。
+# 注意！！！：请孟同学不要根据我和他的关系胡说八道乃至于造谣！！！ 本公示保留两周！
 
 ### 上次更新：2023.11.26
 <script type="text/javascript" src="busuanzi.js"></script>    
@@ -240,6 +241,8 @@ http://bjjh201703.com/  **没有SSL证书！**
   他只好发了三个句号。  
   他把他的节点给我，我很期待，可是——怎么是一堆四不像的东西？过了一会，节点发过来了，只有一个。我回报他，把我的几个节点给了他。后来才发现，那个张一川提供的节点差得很，我又上当了。  
 
+
+## 以下两篇娱乐地看看就行，不要较真我的文言文水平。毕竟是六年级写的，你当年 也强不到哪里去。
 ## 《五十九日寻张记》  颠倒空格著  
 中共国七十四年六月初一，乃良辰，遂复课。其日初雨，却欣然也。  
 
@@ -460,15 +463,11 @@ chatgpt接口价格不菲，他弄一个公众号我很惊讶，更何况部署c
 ## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：[https://ddkg.top/zyc](https://ddkg.top/zyc)。一切张一川本人所写的皆为假冒！
 
 全文共13000+字。  
-在2024.4.25中午《张一川传》完结。
+在2025.4.25中午《张一川传》完结。
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行:A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
-**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://ddkg.top/fdbk) 友链：[张一川的网站1（没了）](http://bjjh201703.com)[张一川的网站2](https://zzzzzyc.github.io)[张一川的网站3](http://zzzzzyc.top)  
+**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://ddkg.top/fdbk) 友链：[张一川的网站1（没了）](http://bjjh201703.com)  [张一川的网站2](https://zzzzzyc.github.io)  [张一川的网站3](http://zzzzzyc.top)  
 [![ddkg.top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/4ab5e796-3c6b-4ead-bffc-e332d1376fff)](https://ddkg.top/)
-
--->
-空空如也
-因为有人非要在传播的基础上胡说八道，暂停若干日子。
