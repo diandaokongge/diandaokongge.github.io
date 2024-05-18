@@ -9,7 +9,7 @@
 **一位为颠倒空格作出巨大贡献的人：[yjt](https://ddkg.top/article/yjt)**  
 [Google](https://www.google.com)或[必应和Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
 <font size="3" color="red">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
-## [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
+# [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
 # [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。（新“文章”）
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
