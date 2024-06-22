@@ -40,7 +40,7 @@
 <span id="busuanzi_container_page_pv">
   本文阅读量<span id="busuanzi_value_page_pv"></span>次
 </span>
-**注意！本站访问量要再加上三千左右，因为更换域名后从头计算，丢失了三千左右。**  
+**注意！本站访问量要再加上四五千左右，因为更换域名后从头计算，丢失了四五千左右。**  
 [![ddkg top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/944b149b-bbac-4648-9dfc-0b034f38f815)](ddkg.top)
 
 <script  color="255,174,200" opacity='1' zIndex="-1" count="250" src="https://cdn.bootcss.com/canvas-nest.js/2.0.4/canvas-nest.js" type="text/javascript"></script>
@@ -49,8 +49,8 @@
 
 [horse-car](https://ddkg.top/时间像小马车.m4a)  
 2021.11.27  21:04  
-2024.1.22  17:
+2024.1.22  17:?
 
    [反馈](https://ddkg.top/fdbk)  
-**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1](http://bjjh201703.com/)  [张一川的网站2](https://zzzzzyc.github.io)  [张一川的网站3](http://zzzzzyc.top)
+**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1（没了）](http://bjjh201703.com/)  [张一川的网站2](https://zzzzzyc.github.io)  [张一川的网站3](http://zzzzzyc.top)
 ![ddkgdraw](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/15c7e65c-58f1-4650-b835-8c0110f2c8d4)
