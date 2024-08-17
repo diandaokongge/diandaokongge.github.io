@@ -8,9 +8,11 @@
 #### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日某人用ClassIn发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段。因为之前ClassIn也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我连他是谁都忘了。  
 **一位为颠倒空格作出巨大贡献的人：[yjt](https://ddkg.top/article/yjt)**  
 [Google](https://www.google.com)或[必应和Bing](https://www.bing.com)或[Yahoo!](https://www.yahoo.com)或[Duckduckgo](https://duckduckgo.com)或[Aol.](https://www.aol.com)搜`颠倒空格`可以搜到本网站。  
-<font size="3" color="black">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>  
+<!-- <font size="3" color="black">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>   -->
+
+上次更新：2024.8
 # [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
-# [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。
+## [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
 ### [点击此处](https://ddkg.top/picture)查看本网站的图集。
