@@ -3,9 +3,7 @@
 
 # 张一川传
 全文共13000+字。预计阅读20+ min。
-# 注意！！！：请孟同学不要根据我和他的关系胡说八道乃至于造谣！！！ 本公示保留两周！
 
-### 上次更新：2023.11.26
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>  
@@ -31,8 +29,7 @@
 六、张一川的第二网站  
 七、张一川的第三网站  
 八、张一川上初中  
-九、张一川的微信公众号  
-十、未完持续  
+九、张一川的微信公众号   
 
 # 序言：我想写张一川很久了。可是，材料不够全面。今天2022.4.15日，我认为我收集到的材料足够了，就开始写张一川传。  
 
@@ -463,11 +460,10 @@ chatgpt接口价格不菲，他弄一个公众号我很惊讶，更何况部署c
 ## 张一川传为本站原创，并非张一川本人所写！张一川传唯一官方地址：[https://ddkg.top/zyc](https://ddkg.top/zyc)。一切张一川本人所写的皆为假冒！
 
 全文共13000+字。  
-在2025.4.25中午《张一川传》完结。
 
 <script type="text/javascript" src="https://www.c1n.cn/js/checkUrl.js" ></script>
 
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行:A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
 **Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.**   [反馈](https://ddkg.top/fdbk) 友链：[张一川的网站1（没了）](http://bjjh201703.com)  [张一川的网站2](https://zzzzzyc.github.io)  [张一川的网站3](http://zzzzzyc.top)  
-[![ddkg.top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/4ab5e796-3c6b-4ead-bffc-e332d1376fff)](https://ddkg.top/)
+[![ddkg top](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/944b149b-bbac-4648-9dfc-0b034f38f815)](ddkg.top)
