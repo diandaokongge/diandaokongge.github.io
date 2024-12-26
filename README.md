@@ -14,7 +14,7 @@
 [Google](https://www.google.com)、[Bing](https://www.bing.com)、[Duckduckgo](https://duckduckgo.com)等搜索引擎搜`颠倒空格`可以搜到本网站。搜狗与百毒是搜不到的。     
 <!-- <font size="3" color="black">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>   -->
 
-上次更新：2024.11
+上次更新：2024.12
 # 新正常文章正在撰写。绝对在2027年8月前基本定稿，绝对在2038年8月前完成。
 # [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
@@ -33,6 +33,8 @@
 本站访问人次位置：
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+悲哀啊！revolversmap停止运行了！我竟然没能看到最后一眼！
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
@@ -58,5 +60,5 @@
 2021.11.27  21:04         2024.1.22  17:?
 
    [反馈](https://ddkg.top/fdbk)  
-**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1（没了）](http://bjjh201703.com/)  [张一川的网站2](https://zzzzzyc.github.io)  [张一川的网站3](http://zzzzzyc.top)
+**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1（没了）](http://bjjh201703.com/)  [张一川的网站2]([https://zzzzzyc.github.io](https://zzzzzyc.github.io))  [张一川的网站3（没了）](http://zzzzzyc.top)
 ![ddkgdraw](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/15c7e65c-58f1-4650-b835-8c0110f2c8d4)
