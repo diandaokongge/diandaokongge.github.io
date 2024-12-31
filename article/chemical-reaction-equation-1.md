@@ -46,30 +46,11 @@
 | 2CH<sub>3</sub>+3O<sub>2</sub>=2CO<sub>2</sub>+3H<sub>2</sub>O | 甲基 | 二氧化碳、水 |  |  
 | CH<sub>4</sub>+2O<sub>2</sub>=CO<sub>2</sub>+2H<sub>2</sub>O | 甲烷 | 二氧化碳、水 |  |  
 | 乙 | --- | --- | --- |  
-| 2C<sub>2</sub>H+5O<sub>2</sub>=4CO<sub>2</sub>+2H<sub>2</sub>O | 乙基自由基 | 二氧化碳、水 |  |  
+| 4C<sub>2</sub>H+9O<sub>2</sub>=8CO<sub>2</sub>+2H<sub>2</sub>O | 乙基自由基 | 二氧化碳、水 |  |  
 | 2C<sub>2</sub>H<sub>2</sub>+5O<sub>2</sub>=4CO<sub>2</sub>+2H<sub>2</sub>O | 乙炔 | 二氧化碳、水 |  |  
-| 2C<sub>2</sub>H<sub>3</sub>+5O<sub>2</sub>=4CO<sub>2</sub>+3H<sub>2</sub>O | 乙炔基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>2</sub>H<sub>4</sub>+5O<sub>2</sub>=4CO<sub>2</sub>+4H<sub>2</sub>O | 乙烯 | 二氧化碳、水 |  |  
-| 2C<sub>2</sub>H<sub>5</sub>+7O<sub>2</sub>=4CO<sub>2</sub>+5H<sub>2</sub>O | 乙基基团 | 二氧化碳、水 |  |  
-| 2C<sub>2</sub>H<sub>6</sub>+7O<sub>2</sub>=4CO<sub>2</sub>+6H<sub>2</sub>O | 乙烷 | 二氧化碳、水 |  |  
-| 丙 | --- | ---  | --- |  
-| 2C<sub>3</sub>H + 7O<sub>2</sub> = 6CO<sub>2</sub> + 4H<sub>2</sub>O | 丙基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>2</sub> + 6O<sub>2</sub> = 6CO<sub>2</sub> + 4H<sub>2</sub>O | 丙炔 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>3</sub> + 7O<sub>2</sub> = 6CO<sub>2</sub> + 4H<sub>2</sub>O | 丙炔基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>4</sub> + 6O<sub>2</sub> = 6CO<sub>2</sub> + 4H<sub>2</sub>O | 丙烯 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>5</sub> + 7O<sub>2</sub> = 6CO<sub>2</sub> + 5H<sub>2</sub>O | 丙基基团 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>6</sub> + 7O<sub>2</sub> = 6CO<sub>2</sub> + 6H<sub>2</sub>O | 丙烷 | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>7</sub> + 8O<sub>2</sub> = 6CO<sub>2</sub> + 6H<sub>2</sub>O | 丁基自由基  | 二氧化碳、水 |  |  
-| 2C<sub>3</sub>H<sub>8</sub> + 8O<sub>2</sub> = 6CO<sub>2</sub> + 8H<sub>2</sub>O | 丁烷 | 二氧化碳、水 |  |
-| 丁 | --- | ---  | --- |  
-| 2C<sub>4</sub>H + 9O<sub>2</sub> = 8CO<sub>2</sub> + 6H<sub>2</sub>O | 丁基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>2</sub> + 8O<sub>2</sub> = 8CO<sub>2</sub> + 6H<sub>2</sub>O | 丁炔 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>3</sub> + 9O<sub>2</sub> = 8CO<sub>2</sub> + 6H<sub>2</sub>O | 丁炔基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>4</sub> + 8O<sub>2</sub> = 8CO<sub>2</sub> + 6H<sub>2</sub>O | 丁烯 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>5</sub> + 9O<sub>2</sub> = 8CO<sub>2</sub> + 7H<sub>2</sub>O | 丁基基团 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>6</sub> + 9O<sub>2</sub> = 8CO<sub>2</sub> + 8H<sub>2</sub>O | 丁烷 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>7</sub> + 10O<sub>2</sub> = 8CO<sub>2</sub> + 8H<sub>2</sub>O | 戊基自由基 | 二氧化碳、水 |  |  
-| 2C<sub>4</sub>H<sub>8</sub> + 10O<sub>2</sub> = 8CO<sub>2</sub> + 10H<sub>2</sub>O | 戊烷 | 二氧化碳、水 |  |  
-
+| 4C<sub>2</sub>H<sub>3</sub>+11O<sub>2</sub>=8CO<sub>2</sub>+6H<sub>2</sub>O | 乙炔基自由基 | 二氧化碳、水 |  |  
+| C<sub>2</sub>H<sub>4</sub>+3O<sub>2</sub>=2CO<sub>2</sub>+2H<sub>2</sub>O | 乙烯 | 二氧化碳、水 |  |  
+| 4C<sub>2</sub>H<sub>5</sub>+13O<sub>2</sub>=8CO<sub>2</sub>+10H<sub>2</sub>O | 乙基基团 | 二氧化碳、水 |  |  
+| 2C<sub>2</sub>H<sub>6</sub>+5O<sub>2</sub>=2CO<sub>2</sub>+6H<sub>2</sub>O | 乙烷 | 二氧化碳、水 |  |  
 
 未完持续……
