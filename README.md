@@ -1,9 +1,9 @@
 # 颠倒空格的个人网站
 [![颠倒空格](https://user-images.githubusercontent.com/94299076/167138129-4174978a-a417-4c03-ad4c-c89d289e9858.png)](https://ddkg.top)  
 
-<font size="6" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top  </font>   
+<font size="5" color="purple">2024年1月22日，本站更换简短的新域名：ddkg.top  </font>   
 
-<font size="6">ddkg是diandaokongge的缩写，diandaokongge是颠倒空格的拼音。 </font>  
+<font size="5">ddkg是diandaokongge的缩写，diandaokongge是颠倒空格的拼音。 </font>  
 ### 什么是颠倒空格？颠倒空格是一种特殊的符号，可以把它同一行后面的文字颠倒，而它是空格形式，所以叫：`颠倒空格`。  
 #### 谁提出“颠倒空格”这个名字的？我忘了。是在2020年6月14±5日某人用ClassIn发给我三种奇怪空格，并附了使用方法。第一种的名字我忘了，是用了Classin的bug，发过去后会让聊天区空出一大片空白，目前已失传。第二种是颠倒空格。第三种只有一行，但是能发送很长一大段。因为之前ClassIn也流传颠倒空格，但没有名字，所以我在此由衷感谢给我颠倒空格，给颠倒空格起名的同学，尽管我忘记他的名字了。 
 
@@ -14,8 +14,8 @@
 [Google](https://www.google.com)、[Bing](https://www.bing.com)、[Duckduckgo](https://duckduckgo.com)等搜索引擎搜`颠倒空格`可以搜到本网站。搜狗与百毒是搜不到的。     
 <!-- <font size="3" color="black">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>   -->
 
-上次更新：2024.12
-# 新正常文章正在撰写。绝对在2027年8月前基本定稿，绝对在2038年8月前完成。
+上次更新：2025.1  
+# 新正常文章（3篇）正在撰写。绝对在2027年8月前基本定稿，绝对在2038年8月前完成。
 # [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
@@ -57,8 +57,9 @@
 ### <span id="runtime_span"></span><script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new Date("11/27/2021 21:04:00");Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);runtime_span.innerHTML="本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script> 
 
 [horse-car](https://ddkg.top/时间像小马车.m4a)  
-2021.11.27  21:04         2024.1.22  17:?
+2021.11.27  21:04  
+2024.1.22  17:?
 
    [反馈](https://ddkg.top/fdbk)  
-**Copyright © 2024 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1（没了）](http://bjjh201703.com/)  [张一川的网站2]([https://zzzzzyc.github.io](https://zzzzzyc.github.io))  [张一川的网站3（没了）](http://zzzzzyc.top)
+**Copyright © 2025 颠倒空格的个人网站 All Rights Reserved.** 友链：[张一川的网站1（没了）](http://bjjh201703.com/)  [张一川的网站2]([https://zzzzzyc.github.io](https://zzzzzyc.github.io))  [张一川的网站3（没了）](http://zzzzzyc.top)
 ![ddkgdraw](https://github.com/diandaokongge/diandaokongge.github.io/assets/94299076/15c7e65c-58f1-4650-b835-8c0110f2c8d4)
