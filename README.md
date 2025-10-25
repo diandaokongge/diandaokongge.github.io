@@ -16,12 +16,13 @@
 
 上次更新：2025.1  
 # 新正常文章（3篇）正在撰写。绝对在2027年8月前基本定稿，绝对在2038年8月前完成。
-# [点击此处](https://ddkg.top/zyc)查看《张一川传》（全站唯一的常规文章，13000+字）。  
+#  [点击此处](https://ddkg.top/article/208)阅读2025年11月完成的文章
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
 ### [点击此处](https://ddkg.top/picture)查看本网站的图集。
 <!-- [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。 -->
 ### [点击此处](https://ddkg.top/update)查看本网站历史。 
+#### [点击此处](https://ddkg.top/zyc)查看《张一川传》。  
 ### **[点击此处查看更多由颠倒空格制作的东西](https://ddkg.top/more)**
 ### [点击此处](https://ddkg.top/article/bad)查看一件很不好的事情。  
 
