@@ -10,21 +10,20 @@
 **一位为颠倒空格作出巨大贡献的人：[yjt](https://ddkg.top/article/yjt)**  
 
 <font size="3" color="blue">感谢李泽篪对本网站长达两年半的关注！  </font>   
-
-[Google](https://www.google.com)、[Bing](https://www.bing.com)、[Duckduckgo](https://duckduckgo.com)等搜索引擎搜`颠倒空格`可以搜到本网站。搜狗与百毒是搜不到的。     
+ 
 <!-- <font size="3" color="black">颠倒空格电报（Telegram）频道和颠倒空格电报（Telegram）群：t.me/diandaokongge_channel  和  t.me/diandaokongge_group</font>   -->
 
-上次更新：2025.1  
-# 新正常文章（3篇）正在撰写。绝对在2027年8月前基本定稿，绝对在2038年8月前完成。
+上次更新：2026.10  
+<!--
 #  [点击此处](https://ddkg.top/article/208)阅读2025年11月完成的文章
 ## [点击此处](https://ddkg.top/article/sb)查看一篇转载自维基百科的“对百度的争议”。
 ## [点击此处](https://ddkg.top/checkip)检测你的IP地址。
 ### [点击此处](https://ddkg.top/picture)查看本网站的图集。
-<!-- [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。 -->
+ [点击此处](https://ddkg.top/article/piddle)查看批斗的28种形式。 
 ### [点击此处](https://ddkg.top/update)查看本网站历史。 
 #### [点击此处](https://ddkg.top/zyc)查看《张一川传》。  
 ### **[点击此处查看更多由颠倒空格制作的东西](https://ddkg.top/more)**
-### [点击此处](https://ddkg.top/article/bad)查看一件很不好的事情。  
+### [点击此处](https://ddkg.top/article/bad)查看一件很不好的事情。  -->
 
 <!-- 公示：公元2021年12月1日北京时间晚上8时50分至9时18分,被LOIC攻击。据站长调查，在那一段时间里，本网站被一名姓姜的黑客攻击，是站长的某同班同学，性别男，当时11岁。在第二天，姜向站长承认错误，故我不再追究其责任。  
  公示：在2022年4月下旬，时常有LOIC和HOIC攻击本网站。据站长调查，在那一段时间里，本网站被一名骇客——张一川攻击，至少攻击了10个G，是站长的某朋友，性别男，当时11岁，态度极其恶劣。站长对骇客张一川进行了五倍的以牙还牙。 -->
@@ -34,8 +33,6 @@
 本站访问人次位置：
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5urd982oaqn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
-悲哀啊！revolversmap停止运行了！我竟然没能看到最后一眼！
 
 <script type="text/javascript" src="busuanzi.js"></script>    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
