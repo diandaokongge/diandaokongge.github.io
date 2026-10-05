@@ -40,14 +40,14 @@
 #### 整体结构设计
 本项目的整体设计如图2所示，机械臂和抽水装置上安装了舵机，舵机可以控制机械臂180°转动，转动的同时先喷水，一定时间后喷洗发液，再过一段时间后再喷水，喷水一段时间后设备自动停止运作。
 
- <img width="198" height="147" alt="图片2" src="https://github.com/user-attachments/assets/ec34f0b6-6c3d-483a-b851-b06cf8410a64" />
+ <img height="250" alt="图片2" src="https://github.com/user-attachments/assets/ec34f0b6-6c3d-483a-b851-b06cf8410a64" />
  
 图2 洗头机整体设计草图
 ### 三、方案实施
 #### 硬件结构建模
 洗头机主体是30×30cm的正方体，底下的污水出水口是15cm直径的圆。如图3，本项目使用solidworks软件进行建模，洗头机整体为一个厢式结构，主要由机械臂、舵机、按摩头等几个重要部分组成，通过舵机控制机械臂的上下摇摆及转头的来回运动，可以实现对头部大部分区域的清洁，机械臂上还嵌有水管和喷头，通过机械臂转动来实现大面积的淋水清洁和冲水功能。
 
- <img width="269" height="255" alt="图片3" src="https://github.com/user-attachments/assets/e05aa1b4-b36f-456b-abea-e3a702b896df" />
+ <img height="250" alt="图片3" src="https://github.com/user-attachments/assets/e05aa1b4-b36f-456b-abea-e3a702b896df" />
  
 图3 洗头机主体部分SolidWorks建模（未加盖版）
 #### 材料选择
@@ -56,19 +56,19 @@
 #### 硬件结构组装
 将3D打印的零件进行组装，自动洗头机的整体结构如图4所示，本项目所设计的自动洗头机不是躺式的，使用者可以坐立或者站立，将头完全伸入洗头机内部。
 
- <img width="184" height="191" alt="图片5" src="https://github.com/user-attachments/assets/58b554d6-302a-4a31-9102-64944509a03e" />
+ <img height="250" alt="图片5" src="https://github.com/user-attachments/assets/58b554d6-302a-4a31-9102-64944509a03e" />
  
 图4 洗头机主体部分实物图
 #### 控制系统  
 本项目的控制系统使用了一个如图5所示ESP32主控板。控制系统框图如图6所示，主控板控制机械臂上的舵机，实现按摩头的转动。主控板还需要控制机械臂的驱动舵机，实现机械臂的转动，机械臂上嵌入的水管可以从不同角度喷水。主控板还需要控制一个阀门，实现喷水和喷洗发水的自动切换。
 
- <img width="477" height="376" alt="图片6" src="https://github.com/user-attachments/assets/a4e0d8a5-7bc9-46d8-a64b-9aee1a270b8d" />
+ <img height="250" alt="图片6" src="https://github.com/user-attachments/assets/a4e0d8a5-7bc9-46d8-a64b-9aee1a270b8d" />
  
 图5 电路主控板
 #### 软件部分
 自动洗头机的工作过程如图7所示。本小组使用VScode里面platformio插件进行程序编写。
 
-<img width="277" height="148" alt="图片9" src="https://github.com/user-attachments/assets/f53f6be1-63d9-4b77-b693-2c32e4b52144" />
+<img height="250" alt="图片9" src="https://github.com/user-attachments/assets/f53f6be1-63d9-4b77-b693-2c32e4b52144" />
 
 图7 洗头机运行流程图
 ### 四、测试与结果分析
