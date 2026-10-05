@@ -31,7 +31,7 @@
 #### 局部硬件设计
 对于揉搓按摩功能，小组设计了含有多个小凸起的立体圆盘形按摩爪，如图1所示。将按摩爪放置在可以绕轴转动的机械臂上，增大了按摩范围，减少了按摩爪数量，降低了结构的复杂度，同时避免长期按摩同一位置导致头发掉落和头皮不适。
 
-<img width="146" height="59" alt="图片1" src="https://github.com/user-attachments/assets/cd72352f-b6bc-4fe0-8d97-baf3c3a29177" />
+<img width="146" height="59" alt="图片1" src="https://ddkg.top/file/图片1.png" />
 
 图1 圆盘形按摩爪设计方案
 
@@ -40,14 +40,14 @@
 #### 整体结构设计
 本项目的整体设计如图2所示，机械臂和抽水装置上安装了舵机，舵机可以控制机械臂180°转动，转动的同时先喷水，一定时间后喷洗发液，再过一段时间后再喷水，喷水一段时间后设备自动停止运作。
 
- <img height="250" alt="图片2" src="https://github.com/user-attachments/assets/ec34f0b6-6c3d-483a-b851-b06cf8410a64" />
+ <img height="250" alt="图片2" src="https://ddkg.top/file/图片2.png" />
  
 图2 洗头机整体设计草图
 ### 三、方案实施
 #### 硬件结构建模
 洗头机主体是30×30cm的正方体，底下的污水出水口是15cm直径的圆。如图3，本项目使用solidworks软件进行建模，洗头机整体为一个厢式结构，主要由机械臂、舵机、按摩头等几个重要部分组成，通过舵机控制机械臂的上下摇摆及转头的来回运动，可以实现对头部大部分区域的清洁，机械臂上还嵌有水管和喷头，通过机械臂转动来实现大面积的淋水清洁和冲水功能。
 
- <img height="250" alt="图片3" src="https://github.com/user-attachments/assets/e05aa1b4-b36f-456b-abea-e3a702b896df" />
+ <img height="250" alt="图片3" src="https://ddkg.top/file/图片3.png" />
  
 图3 洗头机主体部分SolidWorks建模（未加盖版）
 #### 材料选择
@@ -56,21 +56,21 @@
 #### 硬件结构组装
 将3D打印的零件进行组装，自动洗头机的整体结构如图4所示，本项目所设计的自动洗头机不是躺式的，使用者可以坐立或者站立，将头完全伸入洗头机内部。
 
- <img height="250" alt="图片5" src="https://github.com/user-attachments/assets/58b554d6-302a-4a31-9102-64944509a03e" />
+ <img height="250" alt="图片5" src="https://ddkg.top/file/图片5.png" />
  
 图4 洗头机主体部分实物图
 #### 控制系统  
 本项目的控制系统使用了一个如图5所示ESP32主控板。控制系统框图如图6所示，主控板控制机械臂上的舵机，实现按摩头的转动。主控板还需要控制机械臂的驱动舵机，实现机械臂的转动，机械臂上嵌入的水管可以从不同角度喷水。主控板还需要控制一个阀门，实现喷水和喷洗发水的自动切换。
 
- <img height="250" alt="图片6" src="https://github.com/user-attachments/assets/a4e0d8a5-7bc9-46d8-a64b-9aee1a270b8d" />
+ <img height="250" alt="图片6" src="https://ddkg.top/file/图片6.png" />
  
 图5 电路主控板
 #### 软件部分
 自动洗头机的工作过程如图7所示。本小组使用VScode里面platformio插件进行程序编写。
 
-<img height="250" alt="图片9" src="https://github.com/user-attachments/assets/f53f6be1-63d9-4b77-b693-2c32e4b52144" />
+<img height="250" alt="图片9" src="https://ddkg.top/file/图片9.png" />
 
-图7 洗头机运行流程图
+图6 洗头机运行流程图
 ### 四、测试与结果分析
 将程序导入主控板，连接电路，进行多次设备运作测试。经过测试，自动洗头机可以实现全自动化。洗头机可以按程序实现喷水、喷洗发水，机械臂转动以及按摩爪摆动揉搓头发。图8为本项目一位短发的小组成员亲自体验了完整的洗头过程。测试结果表明，我们的洗头机防水性好，安全性过关，同时一个流程下来可以将短发使用者的头发清洗干净。
  # 欠缺待补充
